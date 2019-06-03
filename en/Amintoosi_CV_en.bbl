@@ -11,10 +11,10 @@
 \newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی
   بر یادگیری با درنظر گرفتن وزن‌های مختلف
   برای زمینه و پیش‌زمینه.
-\newblock {\em پردازش علائم و داده‌ها}, x(x):x, ۱۳۹۸.
+\newblock {\em پردازش علائم و داده‌ها}, Spring 2019(39):--,
+  ۱۳۹۸.
 \newblock \lr{Enhancement of Learning Based Image Matting Method with different
-  background/foreground weights, (2019), to be published by Signal and Data
-  Processing)}.
+  background/foreground weights, (2019), Signal and Data Processing)}.
 }
 
 \end{RTLbibitems}

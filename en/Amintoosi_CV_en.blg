@@ -15,9 +15,9 @@ Warning--there's a number but no series in Xepersian-IMS-1391
 Done.
 You've used 55 entries,
             2515 wiz_defined-function locations,
-            1029 strings with 21809 characters,
-and the built_in function-call counts, 16423 in all, are:
-= -- 1592
+            1030 strings with 21802 characters,
+and the built_in function-call counts, 16426 in all, are:
+= -- 1593
 > -- 561
 < -- 20
 + -- 206
@@ -32,7 +32,7 @@ cite$ -- 57
 duplicate$ -- 797
 empty$ -- 1499
 format.name$ -- 151
-if$ -- 4114
+if$ -- 4116
 int.to.chr$ -- 0
 int.to.str$ -- 55
 missing$ -- 339
