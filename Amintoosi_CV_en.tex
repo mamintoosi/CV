@@ -1,0 +1,130 @@
+
+% arara: xelatex
+% arara: bibtex
+% arara: xelatex
+\RequirePackage{biditools}
+\makeatletter
+\bidi@BeforePackage{hyperref}{\let\orig@maketitle\maketitle}
+\bidi@AfterAtEndOfPackage{hyperref}{\let\maketitle\orig@maketitle\usepackage{bidi}}
+\makeatother
+\documentclass[10pt,a4paper]{moderncv}
+
+\usepackage[numbers]{natbib}%
+
+\moderncvstyle{casual} %{classic}
+\moderncvcolor{red}%{blue} 
+
+\usepackage{pifont}
+\usepackage[top=23mm, bottom=30mm, left=22mm, right=22mm]{geometry}
+\usepackage{fontspec}
+\newfontfamily\Persianfont[Script=Arabic,Scale=1]{Yas}
+\makeatletter
+\TeXXeTstate=1
+\def\Persiantext#1{\begingroup\beginR\Persianfont#1\endR\endgroup}
+\makeatother
+\def\lr#1{\begingroup\beginL#1\endL\endgroup}
+\def\XePersian{\lr{XePersian}}
+
+\AtBeginDocument{\recomputelengths} 
+\firstname{Mahmood}
+\familyname{Amintoosi}
+%\resumename{Resume}
+\title{Resume}
+\address{ Hakim Sabzevari University, Sabzevār, Iran}   
+\mobile{+989122874694}
+\phone{+985144013353}  
+%\fax{شماره فکس}                          
+\email{m.amintoosi@\{hsu.ac.ir,gmail\}}
+\extrainfo{\httplink[http://mamintoosi.ir/]{mamintoosi.ir}} 
+\photo[60pt]{aks1.png}%{mAmintoosi.jpg} 
+       
+\setlength{\hintscolumnwidth}{3cm}                        
+                                                          
+\begin{document}
+\maketitle
+
+\vspace{-15mm}
+\section{Nationality}
+\cventry{Iranian}{Kashmar}{}{}{}{}
+
+\section{Current Position}
+\cventry{2000 Until Now}{Faculty Member}{ Hakim Sabzevari University, Faculty of Mathematics and Computer Science}{Sabzevar}{IRAN}{}
+\cventry{2011-2014}{Chief of Information Technology Center}{ Hakim Sabzevari University}{Sabzevar}{IRAN}{}
+
+\section{Education}
+\cventry{1990-1994}{B.Sc.}{Ferdowsi University of Mashhad}{Mashhad}{Iran}{Mathematics (with Computer specialization)}  
+\cventry{1995-1998}{M.Sc.}{Ferdowsi University of Mashhad}{Mashhad}{Iran}{Computer Engineering (Software)}  
+\cventry{2006-2011}{Ph.D.}{Iran University of Science and Technology}{Tehran}{Iran}{Computer Engineering (Artificial Intelligence), Computer Vision}  
+
+%\section{Areas of Expertise}
+%\cvlistdoubleitem{Super Resolution}{Image Registration}
+%\cvlistdoubleitem{Background Est.}{Segmentation}
+%\cvlistdoubleitem{Pattern Recognition}{Timetabling}
+%\cvlistdoubleitem{Comb. Optimization}{\LaTeX}
+
+\section{Courses Taught}
+\cvlistdoubleitem{Data Mining}{Machine Learning}
+\cvlistdoubleitem{Information Retrieval}{Multimedia Environments}
+\cvlistdoubleitem{Programming I,II}{Artificial Intelligence}
+\cvlistdoubleitem{Data Structure}{Algorithm Analysis}
+\cvlistdoubleitem{Computer Graphic}{Databases}
+\cvlistdoubleitem{Combinatorial Optimization}{Programming Languages}
+\cvlistdoubleitem{Operating Systems}{Soft Computing}%{Multimedia Environments}
+\cvlistdoubleitem{MATLAB}{\LaTeX}
+
+\section{Technical Reviewer \& Program Committees}
+
+\begin{itemize}
+\item IET Image Processing Journal
+\item Signal Processing-Elsevier
+\item International Journal of Signal and Data Processing
+\item ICCKE 2017, Ferdowsi University of Mashhad
+\item IKT 2015, Urimia University
+\item ITSC 2014, Qingdao, Shandong, China
+\item ICCKE 2014, Ferdowsi University of Mashhad
+\item ICCKE 2013, Ferdowsi University of Mashhad
+\item MVIP 2013, Zanjan University
+\item ICCKE 2012, Ferdowsi University of Mashhad
+\item MVIP 2011, Iran University of Science and Technology
+\item ICCKE 2011, Ferdowsi University of Mashhad
+\end{itemize}
+
+\newpage
+\section{Skills \& Experiences}
+\cventry{Programming Languages}
+{MATLAB, C and C++, Python, FORTRAN, BASIC, COBOL, FoxPro,  Assembly, Pascal, SQL, PHP, Perl, Java and Java Script, C++ Builder, Delphi} {}{}{}{}
+\cventry{Tools}
+{ \LaTeX, github, Microsoft Office (Word, Excel, Access, OneNote, Visio,
+ OutLook, PowerPoint), TortoiseSVN, WinEdt, TeXMaker, Notepad++,XePersian,
+ Farsi\TeX, Bib\TeX, NetBeans, MiKTeX, and Some Others.} {}{}{}{}
+\cventry{Deep Learning}{Mask-RCNN}{Neural Doodle}{Neural Style Transfer}{I participated at urban tree detection challenge of \href{http://icee2019.yazd.ac.ir/Home}{\textit{ICEE2019}}, (\href{https://drive.google.com/drive/folders/1-VINGtdTzNe-tWuzHCM1lVCU_44IuTfH}{\textit{Some of my results using deep-learning in Google drive}})}{}{}
+\cventry{English level}{Intermediate}{}{}{}{}
+
+\section{Professional Activities}
+
+{\small • Member of the Iranian Society of Machine Vision and Image Processing. \hfill {\scriptsize\em http://www.ismvip.ir/}}\\
+{\small • Member of the ACM (Association for Computing Machinery) \hfill {\scriptsize\em http://www.acm.org//}}\\
+{\small • Member of IEEE (Institute of Electrical and Electronics Engineers). \hfill {\scriptsize\em http://www.ieee.org/}}\\
+{\small • Member of the EURO Working group on Automated TimeTabling (WATT) \hfill {\scriptsize\em http://www.asap.cs.nott.ac.uk/ASAP/watt/}}\\
+{\small • Member of the EU/ME the European chapter on metaheuristics. \hfill {\scriptsize\em http://143.129.203.3/eume/php/eume.main.php}}\\
+{\small • Member of the EURO Special Interest Group on Cutting and Packing (ESICUP). \hfill {\scriptsize\em http://www.apdio.pt/sicup/}}\\
+
+\begin{itemize}
+\item Some completed projects in Hakim Sabzevari University, 
+\item Some lectures and workshops on Iran universities,
+%\item Reviewer of some conferences and journals,
+%\item Conference organizing committee
+\end{itemize}
+
+
+
+
+%%%%%%%%%%%%%%%%%{تألیفات}
+%\newpage
+%\section{Publications}
+%\def\refname{Persian Publications are listed after Latin Publications.}
+\nocite{*}
+\bibliographystyle{plain-fa-inLTR-year-rev}
+\bibliography{M_Amintoosi_pubs_year_order_EnNotes}
+
+\end{document}
