@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: pubEn.aux
+The style file: plain-fa-inLTR-year-rev.bst
+Database file #1: M_Amintoosi_pubs_en.bib
+-- plain-fa-inLTR-year-rev.bst version 0.91 (2018/04/27) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 21 entries,
+            2515 wiz_defined-function locations,
+            781 strings with 10215 characters,
+and the built_in function-call counts, 6769 in all, are:
+= -- 600
+> -- 257
+< -- 11
++ -- 92
+- -- 71
+* -- 446
+:= -- 957
+add.period$ -- 79
+call.type$ -- 21
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 302
+empty$ -- 598
+format.name$ -- 71
+if$ -- 1705
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 132
+newline$ -- 144
+num.names$ -- 23
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 222
+stack$ -- 0
+substring$ -- 439
+swap$ -- 103
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 0
+while$ -- 56
+width$ -- 23
+write$ -- 274

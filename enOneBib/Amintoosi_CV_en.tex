@@ -1,9 +1,7 @@
 
 % arara: xelatex
-% arara: bibtex pubEn
-% arara: bibtex pubFa
+% arara: bibtex
 % arara: xelatex
-
 \RequirePackage{biditools}
 \makeatletter
 \bidi@BeforePackage{hyperref}{\let\orig@maketitle\maketitle}
@@ -12,11 +10,6 @@
 \documentclass[10pt,a4paper]{moderncv}
 
 \usepackage[numbers]{natbib}%
-
-\usepackage{multibbl}
-\newbibliography{pubEn}
-\newbibliography{pubFa}
-
 
 \moderncvstyle{casual} %{classic}
 \moderncvcolor{red}%{blue} 
@@ -129,20 +122,9 @@
 %%%%%%%%%%%%%%%%%{تألیفات}
 %\newpage
 %\section{Publications}
+%\def\refname{Persian Publications are listed after Latin Publications.}
+\nocite{*}
+\bibliographystyle{plain-fa-inLTR-year-rev}
+\bibliography{M_Amintoosi_pubs_year_order_EnNotes}
 
-\nocite{pubEn}{*}
-\bibliographystyle{pubEn}{plain-fa-inLTR-year-rev}
-\bibliography{pubEn}{M_Amintoosi_pubs_en}{English Publications}
-\nocite{pubFa}{*}
-\bibliographystyle{pubFa}{plain-fa-inLTR-year-rev}
-\bibliography{pubFa}{M_Amintoosi_pubs_fa}{Persian Publications}
-
-%\nocite{*}
-%\bibliographystyle{plain-fa-inLTR-year-rev}
-%\bibliography{M_Amintoosi_pubs_en,M_Amintoosi_pubs_fa}
-
-%
-%\def\refname{Persian Publications}
-%\bibliographystyle{plain-fa-inLTR-year-rev}
-%\bibliography{M_Amintoosi_pubs_fa}
 \end{document}

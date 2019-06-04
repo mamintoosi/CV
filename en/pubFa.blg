@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: pubFa.aux
+The style file: plain-fa-inLTR-year-rev.bst
+Database file #1: M_Amintoosi_pubs_fa.bib
+Warning--I'm ignoring Assaran96KSVD's extra "language" field
+--line 191 of file M_Amintoosi_pubs_fa.bib
+Warning--I'm ignoring Xepersian-IMS-1392's extra "note" field
+--line 517 of file M_Amintoosi_pubs_fa.bib
+-- plain-fa-inLTR-year-rev.bst version 0.91 (2018/04/27) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--there's a number but no series in Xepersian-IMS-1392
+Warning--there's a number but no series in Xepersian-IMS-1391
+
+Done.
+You've used 34 entries,
+            2515 wiz_defined-function locations,
+            870 strings with 16754 characters,
+and the built_in function-call counts, 9702 in all, are:
+= -- 993
+> -- 304
+< -- 9
++ -- 114
+- -- 80
+* -- 421
+:= -- 1302
+add.period$ -- 149
+call.type$ -- 34
+change.case$ -- 206
+chr.to.int$ -- 0
+cite$ -- 36
+duplicate$ -- 495
+empty$ -- 902
+format.name$ -- 80
+if$ -- 2414
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 207
+newline$ -- 414
+num.names$ -- 34
+pop$ -- 172
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 182
+stack$ -- 0
+substring$ -- 292
+swap$ -- 125
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 2
+while$ -- 49
+width$ -- 36
+write$ -- 602
+(There were 4 warnings)
