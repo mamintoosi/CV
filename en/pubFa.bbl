@@ -5,16 +5,34 @@
 
 \begin{RTLbibitems}
 
-\bibitem{mattingJSDP}
+\bibitem{mattingJSDP98}
 \Persiantext{
 امین‌طوسی, محمود.
 \newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی
   بر یادگیری با درنظر گرفتن وزن‌های مختلف
   برای زمینه و پیش‌زمینه.
-\newblock {\em پردازش علائم و داده‌ها}, Spring 2019(39):--,
-  ۱۳۹۸.
+\newblock {\em پردازش علائم و داده‌ها}, Spring
+  2019(39):75--90, ۱۳۹۸.
 \newblock \lr{Enhancement of Learning Based Image Matting Method with different
   background/foreground weights, (2019), Signal and Data Processing)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{KeykhosraviMLP98}
+\Persiantext{
+کیخسروی, سیدسعید, نژادکورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock ارزیابی دقت‌ شبکه های عصبی مصنوعی
+  (\lr{{MLP}} و \lr{{RBF}}) در پیش بینی گرد و غبار
+  کارخانه سیمان سبزوار.
+\newblock {\em فصلنامه پژوهش در بهداشت محیط}, 5 -
+  Spring 2019(1):--, ۱۳۹۸.
+\newblock \lr{Estimation of Artificial Neural Networks (MLP and RBF) Accuracy
+  in Anticipation of the Dust of the Sabzevar Cement Factory, (2019), Journal
+  of Research in Environmental Health)}.
 }
 
 \end{RTLbibitems}
@@ -175,8 +193,8 @@
 
 \bibitem{Farhadi95ANN}
 \Persiantext{
-فرهادی, راضیه, فر, مجتبي~هادوي, الدینی,
-  مظاهر~معین, و امین‌طوسی, محمود.
+فرهادی, راضیه, هادوی‌فر, مجتبی,
+  معین‌الدینی, مظاهر, و امین‌طوسی, محمود.
 \newblock پیش بینی غلظت آلاینده های هوای شهر
   تهران بر اساس عوامل اقلیمی با استفاده از
   شبکه عصبی مصنوعی.
@@ -359,7 +377,7 @@
 \newblock  در {\em هفدهمین کنفرانس مهندسی برق
   ایران},  صفحات  ۴۰۱--۴۰۶, تهران، ایران,
   اردیبهشت ۱۳۸۸. دانشگاه علم و صنعت ایران.
-\newblock \lr{(2009)}.
+\newblock \lr{Image Registraion based using SSIM(2009)}.
 }
 
 \end{RTLbibitems}
@@ -390,7 +408,7 @@
 \newblock  در {\em پنجمین کنفرانس پردازش تصویر و
   بینائی ماشین},  صفحات  ۱۷۲--۱۷۸, تبریز،
   ایران, ۱۳۸۷. دانشگاه تبریز.
-\newblock \lr{(2008)}.
+\newblock \lr{Super-Resolution using Matrix Factorization(2008)}.
 }
 
 \end{RTLbibitems}
@@ -404,7 +422,7 @@
 \newblock  در {\em چهاردهمین کنفرانس ملی سالانه
   انجمن کامپیوتر ایران}, تهران، ایران, اسفند
   ۱۳۸۷. دانشگاه امیرکبیر.
-\newblock \lr{(2008)}.
+\newblock \lr{Regional Image Super-Resolution(2008)}.
 }
 
 \end{RTLbibitems}
@@ -420,7 +438,7 @@
 \newblock  در {\em چهارمین کنفرانس بینائی ماشین و
   پردازش تصویر ایران}, مشهد، ایران, بهمن
   ۱۳۸۵. دانشگاه فردوسی مشهد.
-\newblock \lr{(2006)}.
+\newblock \lr{Facial Expersion Recognition in Video using QIM and ITMI(2006)}.
 }
 
 \end{RTLbibitems}
@@ -437,7 +455,7 @@
 \newblock  در {\em اولین کنفرانس ملی مهندسی برق},
   گناباد، ایران, ۱۳۸۵. دانشگاه آزاد اسلامی
   واحد گناباد.
-\newblock \lr{(2006)}.
+\newblock \lr{Facial Expersion Recognition in Video(2006)}.
 }
 
 \end{RTLbibitems}
@@ -453,7 +471,8 @@
 \newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل
   و ترافیك ایران}, تهران, اسفند ۱۳۸۵. سازمان
   حمل و نقل و ترافیك تهران.
-\newblock \lr{(2006)}.
+\newblock \lr{A review on machine vision applications on Iintelligent
+  transportation systems(2006)}.
 }
 
 \end{RTLbibitems}
@@ -468,7 +487,7 @@
 \newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل
   و ترافیك ایران}, تهران، ایران, اسفند ۱۳۸۵.
   سازمان حمل و نقل و ترافیك تهران.
-\newblock \lr{(2006)}.
+\newblock \lr{A survey on accident prevention researchs(2006)}.
 }
 
 \end{RTLbibitems}
@@ -484,7 +503,7 @@
 \newblock  در {\em نهمین كنفرانس سالانه انجمن
   كامپیوتر ایران},  صفحات  345--352, تهران، ایران,
   اسفند ۱۳۸۲. دانشگاه صنعتی شریف.
-\newblock \lr{(2004)}.
+\newblock \lr{Student's sectioning using fuzzy inference system(2004)}.
 }
 
 \end{RTLbibitems}
@@ -498,7 +517,8 @@
 \newblock  در {\em مجله‌ صفر و یک},  صفحات  ۲۵--۳۳.
   گروه کامپیوتر، دانشگاه فردوسی مشهد, مشهد،
   ایران, بهار ۱۳۷۹.
-\newblock شماره سوم, \lr{(2000)}.
+\newblock شماره سوم, \lr{A review on NP-Hard and NP-Complete
+  Problems(2000)}.
 }
 
 \end{RTLbibitems}
@@ -513,7 +533,8 @@
 \newblock  در {\em پنجمین کنفرانس سالانه انجمن
   کامپیوتر ایران},  صفحات  ۲۹۸--۳۰۴, تهران،
   ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
-\newblock \lr{(2000)}.
+\newblock \lr{Tiling Problem using Neural Networks and Genetic
+  Algorithm(2000)}.
 }
 
 \end{RTLbibitems}

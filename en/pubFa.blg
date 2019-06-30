@@ -4,54 +4,54 @@ The top-level auxiliary file: pubFa.aux
 The style file: plain-fa-inLTR-year-rev.bst
 Database file #1: M_Amintoosi_pubs_fa.bib
 Warning--I'm ignoring Assaran96KSVD's extra "language" field
---line 191 of file M_Amintoosi_pubs_fa.bib
+--line 223 of file M_Amintoosi_pubs_fa.bib
 Warning--I'm ignoring Xepersian-IMS-1392's extra "note" field
---line 517 of file M_Amintoosi_pubs_fa.bib
+--line 549 of file M_Amintoosi_pubs_fa.bib
 -- plain-fa-inLTR-year-rev.bst version 0.91 (2018/04/27) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 Warning--there's a number but no series in Xepersian-IMS-1392
 Warning--there's a number but no series in Xepersian-IMS-1391
 
 Done.
-You've used 34 entries,
+You've used 35 entries,
             2515 wiz_defined-function locations,
-            870 strings with 16754 characters,
-and the built_in function-call counts, 9702 in all, are:
-= -- 993
-> -- 304
+            883 strings with 17836 characters,
+and the built_in function-call counts, 9967 in all, are:
+= -- 1018
+> -- 315
 < -- 9
-+ -- 114
-- -- 80
-* -- 421
-:= -- 1302
-add.period$ -- 149
-call.type$ -- 34
-change.case$ -- 206
++ -- 118
+- -- 83
+* -- 440
+:= -- 1342
+add.period$ -- 153
+call.type$ -- 35
+change.case$ -- 211
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 495
-empty$ -- 902
-format.name$ -- 80
-if$ -- 2414
+cite$ -- 37
+duplicate$ -- 504
+empty$ -- 924
+format.name$ -- 83
+if$ -- 2474
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 207
-newline$ -- 414
-num.names$ -- 34
+int.to.str$ -- 35
+missing$ -- 212
+newline$ -- 426
+num.names$ -- 35
 pop$ -- 172
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 182
+skip$ -- 185
 stack$ -- 0
-substring$ -- 292
-swap$ -- 125
+substring$ -- 307
+swap$ -- 126
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 2
-while$ -- 49
-width$ -- 36
-write$ -- 602
+while$ -- 51
+width$ -- 37
+write$ -- 619
 (There were 4 warnings)
