@@ -11,8 +11,8 @@
 \newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی
   بر یادگیری با درنظر گرفتن وزن‌های مختلف
   برای زمینه و پیش‌زمینه.
-\newblock {\em پردازش علائم و داده‌ها}, Spring
-  2019(39):75--90, ۱۳۹۸.
+\newblock {\em پردازش علائم و داده‌ها}, 16(1):75--90,
+  ۱۳۹۸.
 \newblock \lr{Enhancement of Learning Based Image Matting Method with different
   background/foreground weights, (2019), Signal and Data Processing)}.
 }
@@ -29,10 +29,55 @@
   (\lr{{MLP}} و \lr{{RBF}}) در پیش بینی گرد و غبار
   کارخانه سیمان سبزوار.
 \newblock {\em فصلنامه پژوهش در بهداشت محیط}, 5 -
-  Spring 2019(1):--, ۱۳۹۸.
+  Spring 2019(1):234--245, ۱۳۹۸.
 \newblock \lr{Estimation of Artificial Neural Networks (MLP and RBF) Accuracy
   in Anticipation of the Dust of the Sabzevar Cement Factory, (2019), Journal
   of Research in Environmental Health)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Ezzati98-TSCO-GD}
+\Persiantext{
+عزتی, هاشم و امین‌طوسی, محمود.
+\newblock محاسبه بعد متریک گراف با الگوریتم
+  شبیه‌سازی تبریدی.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+\newblock \lr{Computing Graph Metric Dimension using Simulated Annealing,
+  (2019)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Jokar98-TSCO-GAN}
+\Persiantext{
+جوکار, فاطمه, امین‌طوسی, محمود, و
+  صالحی‌ساداتی, سیده‌افسانه.
+\newblock شبکه مولد رقابتی، انواع و کاربرد
+  آن‌ها.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+\newblock \lr{Generative Adversarial Networks: Types and Applications, (2019)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Hosseini98-TSCO-Karger}
+\Persiantext{
+حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
+\newblock بررسی نا کارآمدی الگوریتم کارگر در
+  برش کمینه گرافهای وزن دار.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+\newblock \lr{Investigation of useless of Karger's method in weighted graph for
+  minimim cut problem, (2019)}.
 }
 
 \end{RTLbibitems}

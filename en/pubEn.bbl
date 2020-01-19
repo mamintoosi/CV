@@ -4,12 +4,20 @@
 \begin{thebibliography}{10}
 
 
+\bibitem{Farhadi2019}
+Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
+  Mahmood.
+\newblock Prediction of the air quality by artificial neural network using
+  instability indices in the city of tehran-iran.
+\newblock {\em AUT Journal of Civil Engineering}, pages~--, 2019.
+
+
 \bibitem{Hadavifar2018SA}
 Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
 \newblock Sensitivity analysis of meteorological parameters and instability
   ‎indices on concentration of carbon monoxide, particulate ‎matter, and
   air quality index in tehran.
-\newblock {\em ECOPERSIA}, 6(2), 2018.
+\newblock {\em ECOPERSIA}, 6(2):91--100, 2018.
 
 
 \bibitem{Amintoosi09afast}
@@ -37,7 +45,7 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi09video}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Video resolution enhancement in the presence of moving objects.
-\newblock In {\em International InProceedings on Image Processing, Computer
+\newblock In {\em International Conference on Image Processing, Computer
   Vision, and Pattern Recognition}, pages 456--460, Las Vegas, USA, July 2009.
 \newblock Indexed by \textbf{DBLP}.
 
@@ -45,9 +53,8 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi09regional}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Regional varying image super-resolution.
-\newblock In {\em IEEE International Joint InProceedings on Computational
-  Sciences and Optimization}, volume~1, pages 913--917, Sanya, China, April
-  23-26 2009.
+\newblock In {\em IEEE International Joint Conference on Computational Sciences
+  and Optimization}, volume~1, pages 913--917, Sanya, China, April 23-26 2009.
 \newblock Indexed by \textbf{IEEE Computer Society}, \textbf{ACM} and
   \textbf{DBLP}.
 
@@ -64,15 +71,15 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi09image}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Image registration for super-resolution using sift key-points.
-\newblock In {\em 17th Iranian InProceedings on Electrical Engineering},
-  Tehran, Iran, May 2009. Iran Univ. of Science and Technology.
+\newblock In {\em 17th Iranian Conference on Electrical Engineering}, Tehran,
+  Iran, May 2009. Iran Univ. of Science and Technology.
 
 
 \bibitem{Fathy08outlier}
 Fathy, M., Mozayani, N., and Amintoosi, M.
 \newblock Outlier removal for super-resolution problem using
   {QR-D}ecomposition.
-\newblock In {\em Proceedings of the International InProceedings on Image
+\newblock In {\em Proceedings of the International Conference on Image
   Processing, Computer Vision, and Pattern Recognition}, pages 271--277, USA,
   July 14-17 2008.
 \newblock Indexed by \textbf{DBLP}.
@@ -82,15 +89,15 @@ Fathy, M., Mozayani, N., and Amintoosi, M.
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Reconstruction+synthesis: A hybrid method for multi-frame
   super-resolution.
-\newblock In {\em (MVIP08) 2008 Iranian InProceedings on Machine Vision and
-  Image Processing}, pages 179--184, Tabriz, Iran, 2008. Tabriz University.
+\newblock In {\em (MVIP08) 2008 Iranian Conference on Machine Vision and Image
+  Processing}, pages 179--184, Tabriz, Iran, 2008. Tabriz University.
 
 
 \bibitem{Fathy07abackground}
 Fathy, M., Analoui, M., Mozayani, N., Amintoosi, M., and Farbiz, F.
 \newblock A background model initialization algorithm based on
   {QR-D}ecomposition.
-\newblock In {\em 4th Iranian InProceedings on Machine Vision and Image
+\newblock In {\em 4th Iranian Conference on Machine Vision and Image
   Processing}, Mashhad, Iran, Feb 2007.
 
 
@@ -107,7 +114,7 @@ Amiri, A., Fathy, M., M.Amintoosi, and Sadoghi, H.
 Amiri, A., Fathy, M., Amintoosi, M., and SadoghiYazdi, H.
 \newblock Modified quantized input variable step size {LMS, QX-VSS LMS}
   algorithm applied to signal prediction.
-\newblock In {\em Proceeidings of 4th IEEE GCC InProceedings}, November 2007.
+\newblock In {\em Proceeidings of 4th IEEE GCC Conference}, November 2007.
 
 
 \bibitem{Amintoosi07using}
@@ -130,7 +137,7 @@ Amintoosi, M., Fathy, M., Mozayani, N., and Rahmani, A.T.
 \bibitem{Amintoosi07icassp}
 Amintoosi, M., Farbiz, F., Fathy, M., Analoui, M., and Mozayani, N.
 \newblock {QR-D}ecomposition-based {A}lgorithm for {B}ackground {S}ubtraction.
-\newblock In {\em ICASSP2007, IEEE International InProceedings on Acoustics,
+\newblock In {\em ICASSP2007, IEEE International Conference on Acoustics,
   Speech, and Signal Processing}, pages 1093--1096, USA, 2007.
 \newblock Indexed by \textbf{IEEE}, \textbf{SCOPUS} and \textbf{DBLP}.
 
@@ -139,7 +146,7 @@ Amintoosi, M., Farbiz, F., Fathy, M., Analoui, M., and Mozayani, N.
 Amintoosi, M., Farbiz, F., and Fathy, M.
 \newblock A {QR D}ecomposition based mixture model algorithm for background
   modeling.
-\newblock In {\em ICICS2007, Sixth International InProceedings on Information,
+\newblock In {\em ICICS2007, Sixth International Conference on Information,
   Communication and Signal Processing}, pages 1--5, Singapore, December 2007.
 \newblock Indexed by \textbf{IEEE} and \textbf{SCOPUS}.
 
@@ -161,7 +168,7 @@ Amintoosi, M., Yazdi, H.~Sadoghi, and Haddadnnia, J.
 \bibitem{Amintoosi04using}
 Amintoosi, M., Monsefi, R., and Haddadnia, J.
 \newblock Using pattern matching for tiling and packing problems.
-\newblock In {\em Fifth International InProceedings on Computer Sciences},
+\newblock In {\em Fifth International Conference on Computer Sciences},
   Modeling, Computation and Optimization in Information Systems and Management
   Sciences, pages 97--104, Metz,France, July 2004. Hermes Science Publishing.
 

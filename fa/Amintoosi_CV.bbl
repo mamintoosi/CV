@@ -4,13 +4,59 @@
 \begin{thebibliography}{10}
 
 
-\bibitem{mattingJSDP}
+\bibitem{Hosseini98-TSCO-Karger}
+حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
+\newblock بررسی نا کارآمدی الگوریتم کارگر در
+  برش کمینه گرافهای وزن دار.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+
+
+\bibitem{Jokar98-TSCO-GAN}
+جوکار, فاطمه, امین‌طوسی, محمود, و
+  صالحی‌ساداتی, سیده‌افسانه.
+\newblock شبکه مولد رقابتی، انواع و کاربرد
+  آن‌ها.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+
+
+\bibitem{Ezzati98-TSCO-GD}
+عزتی, هاشم و امین‌طوسی, محمود.
+\newblock محاسبه بعد متریک گراف با الگوریتم
+  شبیه‌سازی تبریدی.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Farhadi2019}
+Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
+  Mahmood.
+\newblock Prediction of the air quality by artificial neural network using
+  instability indices in the city of tehran-iran.
+\newblock {\em AUT Journal of Civil Engineering},  pp.~--, 2019.
+
+\end{LTRbibitems}
+
+
+\bibitem{KeykhosraviMLP98}
+کیخسروی, سیدسعید, نژادکورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock ارزیابی دقت‌ شبکه های عصبی مصنوعی
+  (\lr{{MLP}} و \lr{{RBF}}) در پیش بینی گرد و غبار
+  کارخانه سیمان سبزوار.
+\newblock {\em فصلنامه پژوهش در بهداشت محیط},
+  5(1):234--245, ۱۳۹۸.
+
+
+\bibitem{mattingJSDP98}
 امین‌طوسی, محمود.
 \newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی
   بر یادگیری با درنظر گرفتن وزن‌های مختلف
   برای زمینه و پیش‌زمینه.
-\newblock {\em پردازش علائم و داده‌ها}, بهار
-  ۹۸(39):--, ۱۳۹۸.
+\newblock {\em پردازش علائم و داده‌ها}, 16(1):75--90,
+  ۱۳۹۸.
 
 \begin{LTRbibitems}
 \resetlatinfont
