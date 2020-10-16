@@ -7,44 +7,44 @@ Database file #1: M_Amintoosi_pubs_en.bib
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 22 entries,
+You've used 24 entries,
             2515 wiz_defined-function locations,
-            788 strings with 10447 characters,
-and the built_in function-call counts, 7097 in all, are:
-= -- 628
-> -- 271
+            801 strings with 10768 characters,
+and the built_in function-call counts, 7504 in all, are:
+= -- 662
+> -- 290
 < -- 12
-+ -- 97
-- -- 75
-* -- 469
-:= -- 1005
-add.period$ -- 82
-call.type$ -- 22
-change.case$ -- 22
++ -- 104
+- -- 80
+* -- 490
+:= -- 1074
+add.period$ -- 90
+call.type$ -- 24
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 315
-empty$ -- 626
-format.name$ -- 75
-if$ -- 1786
+cite$ -- 24
+duplicate$ -- 333
+empty$ -- 660
+format.name$ -- 80
+if$ -- 1886
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 138
-newline$ -- 150
-num.names$ -- 24
+int.to.str$ -- 24
+missing$ -- 148
+newline$ -- 164
+num.names$ -- 26
 pop$ -- 67
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 230
+skip$ -- 243
 stack$ -- 0
-substring$ -- 465
-swap$ -- 107
+substring$ -- 471
+swap$ -- 109
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 0
-while$ -- 61
-width$ -- 24
-write$ -- 285
+while$ -- 65
+width$ -- 26
+write$ -- 311

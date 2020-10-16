@@ -9,45 +9,45 @@ Warning--there's a number but no series in Xepersian-IMS-1392
 Warning--there's a number but no series in Xepersian-IMS-1391
 
 Done.
-You've used 60 entries,
+You've used 70 entries,
             2198 wiz_defined-function locations,
-            978 strings with 20826 characters,
-and the built_in function-call counts, 16870 in all, are:
-= -- 1602
-> -- 613
+            1036 strings with 23361 characters,
+and the built_in function-call counts, 18804 in all, are:
+= -- 1779
+> -- 693
 < -- 21
-+ -- 225
-- -- 165
-* -- 917
-:= -- 2305
-add.period$ -- 213
-call.type$ -- 60
-change.case$ -- 213
++ -- 256
+- -- 186
+* -- 1028
+:= -- 2620
+add.period$ -- 251
+call.type$ -- 70
+change.case$ -- 241
 chr.to.int$ -- 0
-cite$ -- 62
-duplicate$ -- 854
-empty$ -- 1616
-format.name$ -- 165
-if$ -- 4235
+cite$ -- 72
+duplicate$ -- 942
+empty$ -- 1787
+format.name$ -- 186
+if$ -- 4686
 int.to.chr$ -- 0
-int.to.str$ -- 60
-missing$ -- 308
-newline$ -- 448
-num.names$ -- 62
-pop$ -- 291
+int.to.str$ -- 70
+missing$ -- 345
+newline$ -- 525
+num.names$ -- 72
+pop$ -- 293
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 432
+skip$ -- 481
 stack$ -- 0
-substring$ -- 768
-swap$ -- 236
+substring$ -- 792
+swap$ -- 246
 text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 2
-while$ -- 113
-width$ -- 62
-write$ -- 796
+while$ -- 131
+width$ -- 72
+write$ -- 931
 (There were 2 warnings)

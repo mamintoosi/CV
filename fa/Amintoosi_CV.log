@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2018.4.1)  19 JAN 2020 12:43
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2020.4.8)  16 OCT 2020 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,43 +6,43 @@ entering extended mode
 (./Amintoosi_CV.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/bidimoderncv.cls
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/bidimoderncv.cls
 Document Class: bidimoderncv 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: xetex.def on input line 143.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
 File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
 e/RRM/JK)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )))
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: xetex.def on input line 95.
@@ -50,24 +50,24 @@ Package graphics Info: Driver file: xetex.def on input line 95.
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/marvosym/marvosym.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -109,25 +109,25 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen104
 \Hy@linkcounter=\count79
 \Hy@pagecounter=\count80
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count81
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -163,13 +163,13 @@ Package hyperref Warning: Option `pdfpagelabels' is turned off
 
 Package hyperref Message: Driver (autodetected): hxetex.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
 )
@@ -179,7 +179,7 @@ Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 \Fld@listcount=\count88
 \c@bookmark@seq@number=\count89
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 (rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
@@ -192,7 +192,7 @@ tly
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 90.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip42
 \f@ncyO@elh=\skip43
 \f@ncyO@erh=\skip44
@@ -212,7 +212,7 @@ Package hyperref Info: Option `breaklinks' set `true' on input line 90.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 173.
 
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
@@ -221,49 +221,50 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 \listdoubleitemmaincolumnwidth=\skip58
 \bibindent=\skip59
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip60
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count90
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.t
+ex
 \pgfutil@everybye=\toks15
 \pgfutil@tempdima=\dimen108
 \pgfutil@tempdimb=\dimen109
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.
-tex))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-l
+ists.tex))
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.de
+f
 \pgfutil@abb=\box27
-
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
+ (c:/Programs/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+ (c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.te
+x
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks16
 \pgfkeys@temptoks=\toks17
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.
-tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.
+code.tex
 \pgfkeys@tmptoks=\toks18
 ))
 \pgf@x=\dimen110
@@ -283,36 +284,39 @@ tex
 \t@pgf@toka=\toks19
 \t@pgf@tokb=\toks20
 \t@pgf@tokc=\toks21
- (d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-xetex.def
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.d
+ef
 File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfm
+x.def
 File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.d
-ef
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-
+pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
 \pgfsys@objnum=\count95
 )))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code
-.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath
+.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count96
 \pgfsyssoftpath@bigbuffer@items=\count97
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code
-.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol
+.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (d:/TeX/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (c:/Programs/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -326,13 +330,15 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.te
+x
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+ (c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.te
+x
 \pgfmath@dimen=\dimen118
 \pgfmath@count=\count98
 \pgfmath@box=\box28
@@ -340,28 +346,29 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.cod
-e.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonome
-tric.code.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.co
-de.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compariso
-n.code.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code
-.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.cod
-e.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code
-.tex)
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerar
-ithmetics.code.tex)))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code
+.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basi
+c.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trig
+onometric.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rand
+om.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comp
+arison.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base
+.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.roun
+d.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc
+.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.inte
+gerarithmetics.code.tex)))
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count99
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
-ex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.c
+ode.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen119
 \pgf@picmaxx=\dimen120
@@ -378,119 +385,121 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen131
 \pgf@zy=\dimen132
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct
-.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathcons
+truct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen133
 \pgf@path@lasty=\dimen134
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.cod
-e.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusag
+e.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen135
 \pgf@shorten@start@additional=\dimen136
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.t
-ex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.c
+ode.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box29
 \pgf@hbox=\box30
 \pgf@layerbox@main=\box31
 \pgf@picture@serial@count=\count100
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
-code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphics
+tate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen137
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformatio
-ns.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransfor
+mations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen138
 \pgf@pt@y=\dimen139
 \pgf@pt@temp=\dimen140
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.co
+de.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.
-tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.
+code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessin
-g.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproc
+essing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.t
-ex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.c
+ode.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen141
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.co
+de.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen142
 \pgf@sys@shading@range@num=\count101
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.co
+de.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code
-.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal
+.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box32
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.t
-ex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.c
+ode.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.
-code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspar
+ency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code
-.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns
+.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.co
+de.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box33
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code
+.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-6
-5.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versio
+n-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen143
 \pgf@nodesepend=\dimen144
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-1
-8.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-versio
+n-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+))
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+)) (c:/Programs/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen145
 \pgffor@skip=\dimen146
 \pgffor@stack=\toks25
 \pgffor@toks=\toks26
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.co
+de.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandler
-s.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotha
+ndlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count102
 \pgfplotmarksize=\dimen147
@@ -510,8 +519,8 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count105
 \tikz@fig@count=\count106
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.te
-x
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.co
+de.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count107
 \pgfmatrixcurrentcolumn=\count108
@@ -519,31 +528,31 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count110
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibrarytopaths.code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librari
+es/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/tikzmark/tikzlibrarytikzmark.code.tex
-) (d:/TeX/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/tikzmark/tikzlibrarytikzmark.cod
+e.tex) (c:/Programs/texlive/2015/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/psnfss/upzd.fd
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2015/12/07 v16.4 Persian typesetting in XeLaTeX
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2016/01/19 v6377 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
 L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
@@ -650,10 +659,10 @@ L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen184
 L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: xdvipdfmx
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count133
 \l__xparse_m_args_int=\count134
@@ -663,7 +672,7 @@ Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
 )
 Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
 X
 \l_fontspec_script_int=\count138
@@ -674,28 +683,28 @@ X
 \l__fontspec_tmpc_dim=\dimen187
 \g__file_internal_ior=\read2
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
 LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
 
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
 other characters in Unicode lower plane
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 .
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 \tipaTiiicode=\count141
@@ -809,7 +818,7 @@ File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 .................................................
 \l__fontspec_tmp_int=\count142
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 2705.
 LaTeX Info: Redefining \slshape on input line 2710.
 LaTeX Info: Redefining \scshape on input line 2715.
@@ -830,7 +839,8 @@ LaTeX Info: Redefining \- on input line 2746.
 . Defining command \liningnums with sig. 'm' on line 2845.
 .................................................
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal
+.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
 \XePersian@i=\count145
 \XePersian@y=\count146
@@ -870,8 +880,8 @@ Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
 \XePersian@sn=\count180
 \XePersian@mminusone=\count181
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.
-sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigit
+spec.sty
 Package: xepersian-mathsdigitspec 2015/12/07 v1.1.1 Unicode Persian maths digit
 s in XeLaTeX
 .................................................
@@ -914,7 +924,7 @@ s in XeLaTeX
 . 
 . Defining command \setmathttdigitfont with sig. 'om' on line 204.
 .................................................
-) (d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/bidi.sty
+) (c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/bidi.sty
 Package: bidi 2015/12/07 v19.1 Bidirectional typesetting in plain TeX and LaTeX
 
 
@@ -941,19 +951,19 @@ Package: bidi 2015/12/07 v19.1 Bidirectional typesetting in plain TeX and LaTeX
 * 
 * Support: persian-tex@tug.org
 ****************************************************
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/biditools.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2015/11/14 v0.8 Programming tools for bidi package
 \@bidi@envbody=\toks29
 \@bidi@emptytoks=\toks30
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
 Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-base.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/oberdiek/zref-base.sty
 Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
 Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
@@ -962,60 +972,62 @@ Package zref Info: New property: page on input line 761.
 \c@abspage=\count182
 Package zref Info: New property: abspage on input line 62.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks31
 \XKV@tempa@toks=\toks32
 )
 \XKV@depth=\count183
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2015/11/14 v1.2.4 bidi adaptations for `latex.ltx' f
 or XeTeX engine
 \bidi@n@everypar=\toks33
 
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2015/11/14 v0.9 bidi footnote macros for XeTeX en
 gine
 \c@footdir@label=\count184
 \footdir@toks=\toks34
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
 File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
 or XeTeX engine
 LaTeX Info: Redefining \color on input line 46.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
 File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
  for XeTeX engine
 LaTeX Info: Redefining \color on input line 45.
 LaTeX Info: Redefining \bidicolor on input line 88.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
 File: graphicx-xetex-bidi.def 2012/01/01 v0.4 bidi adaptations for graphicx pac
 kage for XeTeX engine
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
 File: hyperref-xetex-bidi.def 2015/11/26 v0.9 bidi adaptations for hyperref pac
 kage for XeTeX engine
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
 File: fancyhdr-xetex-bidi.def 2012/04/18 v0.4 bidi adaptations for fancyhdr pac
 kage for XeTeX engine
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.
-def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-
+bidi.def
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
 f package for XeTeX engine
-) (d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/natbib-xetex-bidi.def
+)
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/natbib-xetex-bidi.def
 File: natbib-xetex-bidi.def 2011/06/04 v0.1 bidi adaptations for natbib package
  for XeTeX engine
 ))
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.d
+ef
 File: loadingorder-xetex-bidi.def 2015/10/16 v0.96 making sure that bidi is the
  last package loaded
 ))
@@ -1091,22 +1103,27 @@ File: loadingorder-xetex-bidi.def 2015/10/16 v0.96 making sure that bidi is the
 . Defining command \setiranicfont with sig. 'om' on line 240.
 .................................................
 
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.de
-f
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersi
+an.def
 File: loadingorder-xepersian.def 2012/01/01 v0.3 making sure that xepersian is 
 the last package loaded
-) (d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+)
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.d
+ef
 File: footnote-xepersian.def 2013/04/26 v0.4 footnote macros for xepersian pack
 age
-) (d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def
+)
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.d
+ef
 File: hyperref-xepersian.def 2015/02/02 v0.6 bilingual captions for hyperref pa
 ckage
-) (d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/natbib-xepersian.def
+)
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/natbib-xepersian.def
 File: natbib-xepersian.def 2011/08/01 v0.1 adaptations for natbib package
 LaTeX Info: Redefining \Latincite on input line 242.
 )
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/xepersian/bidimoderncv-xepersian.de
-f
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/xepersian/bidimoderncv-xepersi
+an.def
 File: bidimoderncv-xepersian.def 2010/07/25 v0.1 adaptations for bidimoderncv c
 lass
 )
@@ -1183,38 +1200,13 @@ idigits;"
 .................................................
 LaTeX Font Info:    Font shape `EU1/IRLotusICEE.ttf(0)/m/n' will be
 (Font)              scaled to size 13.13995pt on input line 16.
-\g__fontspec_family_LinuxLibertine_int=\count187
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'LinuxLibertine(0)' created for font 'Linux Libertine' with
-. options [Mapping=tex-text,Scale=1].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->s*[1]"Linux
-. Libertine/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->s*[1]"Linux
-. Libertine/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold'
-. (bx/n) with NFSS spec.: <->s*[1]"Linux
-. Libertine/B/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->s*[1]"Linux
-. Libertine/B/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'italic'
-. (m/it) with NFSS spec.: <->s*[1]"Linux
-. Libertine/I/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->s*[1]"Linux
-. Libertine/I/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold
-. italic' (bx/it) with NFSS spec.: <->s*[1]"Linux
-. Libertine/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-LaTeX Info: Redefining \latinfont on input line 18.
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
 * Language 'Parsi' not available for font 'IRTitr' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-\g__fontspec_family_IRTitr_int=\count188
+\g__fontspec_family_IRTitr_int=\count187
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1264,20 +1256,21 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
- (d:/TeX/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 34.
 \AtBeginShipoutBox=\box53
 Package hyperref Info: Link coloring OFF on input line 34.
 
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(d:/TeX/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count189
+\c@section@level=\count188
 )
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
@@ -1288,7 +1281,7 @@ LaTeX Info: Redefining \nameref on input line 34.
 \openout4 = `Amintoosi_CV.out'.
 
 
-(d:/TeX/texlive/2015/texmf-dist/tex/xelatex/bidi/cvthemebidiclassic.sty
+(c:/Programs/texlive/2015/texmf-dist/tex/xelatex/bidi/cvthemebidiclassic.sty
 Package: cvthemebidiclassic 
 \maketitlenamemaxwidth=\skip68
 \maketitlenamefullwidth=\skip69
@@ -1489,7 +1482,7 @@ nput line 42.
 LaTeX Font Info:    Font shape `EU1/IRLotusICEE.ttf(3)/m/it' will be
 (Font)              scaled to size 13.13995pt on input line 42.
 LaTeX Font Info:    Try loading font information for U+mvs on input line 42.
-(d:/TeX/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd)
+(c:/Programs/texlive/2015/texmf-dist/tex/latex/marvosym/umvs.fd)
 
 Package xcolor Warning: Incompatible color definition on input line 42.
 
@@ -1620,10 +1613,6 @@ idigits;color=4682B4FF
 .................................................
 LaTeX Font Info:    Font shape `EU1/IRLotusICEE.ttf(5)/m/n' will be
 (Font)              scaled to size 14.39996pt on input line 58.
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 61.
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 67.
 
 Underfull \hbox (badness 10000) in paragraph at lines 56--69
 [][]
@@ -1636,8 +1625,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--69
 * 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 73.
 
 Overfull \hbox (28.52621pt too wide) in paragraph at lines 73--73
 [][]\U/pzd/m/n/10.95 HHN [] HHN []| []
@@ -1696,7 +1683,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--91
 * 'Default' language used instead.
 *************************************************
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--113
+Underfull \hbox (badness 10000) in paragraph at lines 94--114
 [][]
  []
 
@@ -1708,7 +1695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--113
 * 'Default' language used instead.
 *************************************************
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--122
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
 [][]
  []
 
@@ -1728,12 +1715,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--122
 * 'Default' language used instead.
 *************************************************
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 [][]
  []
 
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 142.
+
+Overfull \hbox (39.63881pt too wide) in paragraph at lines 147--149
+[][]\EU1/lmroman10-regular(0)/m/n/10.95 Member of the EURO Working group on Aut
+omated TimeTabling (WATT)  \EU1/lmroman10-regular(0)/m/it/8 http://www.asap.cs.
+nott.ac.uk/ASAP/watt/ []
+ []
+
+
+Overfull \hbox (8.92723pt too wide) in paragraph at lines 149--150
+[][]\EU1/lmroman10-regular(0)/m/n/10.95 Member of the EURO Special Interest Gro
+up on Cutting and Packing (ESICUP).  \EU1/lmroman10-regular(0)/m/it/8 http://ww
+w.apdio.pt/sicup/ []
+ []
+
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
@@ -1742,7 +1741,7 @@ LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/it' will be
 * 'Default' language used instead.
 *************************************************
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--185
+Underfull \hbox (badness 10000) in paragraph at lines 165--186
 [][]
  []
 
@@ -1761,12 +1760,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--185
 * 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 38.
-Missing character: There is no ‎ in font Linux Libertine/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
-Missing character: There is no ‎ in font Linux Libertine/OT:script=latn;languag
-e=DFLT;mapping=tex-text;!
+Missing character: There is no ‎ in font [lmroman10-regular]/OT:script=latn;lan
+guage=DFLT;mapping=tex-text;!
+Missing character: There is no ‎ in font [lmroman10-regular]/OT:script=latn;lan
+guage=DFLT;mapping=tex-text;!
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
@@ -1775,9 +1772,6 @@ e=DFLT;mapping=tex-text;!
 * 'Default' language used instead.
 *************************************************
 [4]
-LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/bx/n' will be
-(Font)              scaled to size 10.95pt on input line 293.
-
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
@@ -1793,7 +1787,7 @@ LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/bx/n' will be
 * 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-[6])
+[6]
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
@@ -1801,21 +1795,29 @@ LaTeX Font Info:    Font shape `EU1/LinuxLibertine(0)/bx/n' will be
 * 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-[7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+[7])
+*************************************************
+* fontspec warning: "language-not-exist"
+* 
+* Language 'Parsi' not available for font 'IRLotusICEE.ttf' with script
+* 'Parsi'.
+* 'Default' language used instead.
+*************************************************
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (./Amintoosi_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 222.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 222.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 223.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
- 32934 strings out of 493638
- 635800 string characters out of 6146385
- 657731 words of memory out of 50000000
- 35824 multiletter control sequences out of 15000+600000
- 8378 words of font info for 93 fonts, out of 8000000 for 9000
+ 32927 strings out of 493638
+ 637032 string characters out of 4894395
+ 6644499 words of memory out of 18000000
+ 35832 multiletter control sequences out of 15000+600000
+ 8338 words of font info for 88 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,15n,72p,10558b,693s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,15n,72p,10558b,691s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Amintoosi_CV.pdf (7 pages).
+Output written on Amintoosi_CV.pdf (8 pages).

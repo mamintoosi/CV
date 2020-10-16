@@ -4,6 +4,101 @@
 \begin{thebibliography}{10}
 
 
+\bibitem{FCNN_in_calligraphy_Classification99}
+امین‌طوسی, محمود.
+\newblock شبکه پیچشی عمیق با اندازه ورودی متغیر
+  در تشخیص تابلوهای خوشنویسی با
+  رسم‌الخطهای شکسته نستعلیق و ثلث.
+\newblock {\em نشریه مهندسی برق و مهندسی کامپیوتر
+  ایران}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری.
+
+
+\bibitem{TaylorExpansion_in_CNN_prunning99}
+امین‌طوسی, محمود.
+\newblock کاربرد بسط تیلور در کاهش حجم شبکه‌های
+  عصبی پیچشی.
+\newblock {\em نشریه ریاضی و جامعه}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری (بازنگری شده).
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{SMC2020}
+Mortazavi, Mina, Amintoosi, Mahmood, and Gachpazan, Morteza.
+\newblock Fractional derivative in sparse super resolution.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  -:--, 2020.
+\newblock Under Review.
+
+\end{LTRbibitems}
+
+
+\bibitem{ModifiedGA-iranaict99}
+امین‌طوسی, محمود و عزتی, هاشم.
+\newblock الگوریتم ژنتیکِ آگاه از بهترین عضو با
+  کاربرد در رنگ‌آمیزی و بعدمتریک گراف.
+\newblock {\em نشریه فناوری اطلاعات و ارتباطات
+  ایران}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری (بازنگری شده).
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{COM-CS-2020}
+Amintoosi, Mahmood and Farbiz, Farzam.
+\newblock Eigenbackground revisited: Can we model the background with
+  eigenvectors?
+\newblock {\em Computer}, -:--, 2020.
+\newblock Under Review.
+
+\end{LTRbibitems}
+
+
+\bibitem{XELM_scj}
+امین‌طوسی, محمود, خورسندی, سکینه, و
+  زعفرانیه, مهدی.
+\newblock ارزیابی عملکرد ماشین یادگیر نهایی در
+  قطعه‌بندی تصاویر.
+\newblock {\em مجله محاسبات نرم}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری (نیازمند بازنگری).
+
+
+\bibitem{Matting99}
+امین‌طوسی, محمود و بختی, پروین.
+\newblock تعمیم درهم‌تنیدگی دوکلاسه‌ی تصاویر
+  به طبقه‌بندی چند کلاسه‌ی داده‌های با
+  تعداد کمِ نمونه‌های برچسب‌دار.
+\newblock {\em مجله علوم رایانشی}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری.
+
+
+\bibitem{RefMan99}
+امین‌طوسی, محمود.
+\newblock محلی‌سازی نرم‌افزارهای استناددهی
+  فارسی: چالش‌ها و الزامات.
+\newblock {\em مجله مطالعات کتابداری و علم
+  اطلاعات}, -(-):--, ۱۳۹۹.
+\newblock در حال داوری.
+
+
+\bibitem{Nejadkoorki}
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock شبیه سازی و برآورد میزان گردوغبار
+  صنایع با مدل شبکه عصبی چند لایه پرسپترون
+  (مطالعه موردی: کارخانه سیمان سبزوار).
+\newblock {\em مجله سلامت کار ایران}, 17(1), 1399.
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{DBLP:journals/corr/abs-1903-12527}
+Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
+\newblock An upper bound for minimum true matches in graph isomorphism with
+  simulated annealing.
+\newblock {\em arXiv}, abs/1903.12527, 2019.
+
+\end{LTRbibitems}
+
+
 \bibitem{Hosseini98-TSCO-Karger}
 حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
 \newblock بررسی نا کارآمدی الگوریتم کارگر در
