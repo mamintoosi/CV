@@ -14,23 +14,23 @@
 \newblock در حال داوری.
 
 
+\bibitem{CNN-Corona-Detection}
+امین‌طوسی, محمود.
+\newblock استفاده از روش آسیب مغزی بهینه‌ در
+  کوچک‌سازی یک مدل یادگیری عمیق برای
+  شناسایی کووید۱۹.
+\newblock {\em مجله تاره‌های علوم شناختی}, -(-):--,
+  ۱۳۹۹.
+\newblock در حال داوری.
+
+
 \bibitem{TaylorExpansion_in_CNN_prunning99}
 امین‌طوسی, محمود.
-\newblock کاربرد بسط تیلور در کاهش حجم شبکه‌های
-  عصبی پیچشی.
+\newblock کاربرد بسط تیلور در کاهش حجم شبکه های
+  عصبی پیچشی برای طبقه بندی نقاشی های سبک
+  امپرسیونیسم و مینیاتور.
 \newblock {\em نشریه ریاضی و جامعه}, -(-):--, ۱۳۹۹.
-\newblock در حال داوری (بازنگری شده).
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{SMC2020}
-Mortazavi, Mina, Amintoosi, Mahmood, and Gachpazan, Morteza.
-\newblock Fractional derivative in sparse super resolution.
-\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems},
-  -:--, 2020.
-\newblock Under Review.
-
-\end{LTRbibitems}
+\newblock پذیرفته شده برای چاپ.
 
 
 \bibitem{ModifiedGA-iranaict99}
@@ -38,8 +38,7 @@ Mortazavi, Mina, Amintoosi, Mahmood, and Gachpazan, Morteza.
 \newblock الگوریتم ژنتیکِ آگاه از بهترین عضو با
   کاربرد در رنگ‌آمیزی و بعدمتریک گراف.
 \newblock {\em نشریه فناوری اطلاعات و ارتباطات
-  ایران}, -(-):--, ۱۳۹۹.
-\newblock در حال داوری (بازنگری شده).
+  ایران}, 12(42,43):157--169, ۱۳۹۹.
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -68,7 +67,7 @@ Amintoosi, Mahmood and Farbiz, Farzam.
   به طبقه‌بندی چند کلاسه‌ی داده‌های با
   تعداد کمِ نمونه‌های برچسب‌دار.
 \newblock {\em مجله علوم رایانشی}, -(-):--, ۱۳۹۹.
-\newblock در حال داوری.
+\newblock در حال داوری (نیازمند بازنگری).
 
 
 \bibitem{RefMan99}
@@ -90,11 +89,12 @@ Amintoosi, Mahmood and Farbiz, Farzam.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{DBLP:journals/corr/abs-1903-12527}
+\bibitem{Ezzati99}
 Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
-\newblock An upper bound for minimum true matches in graph isomorphism with
-  simulated annealing.
-\newblock {\em arXiv}, abs/1903.12527, 2019.
+\newblock On the minimum of true matches in exact graph matching with simulated
+  annealing.
+\newblock {\em Journal of Algorithms and Computation}, -, 2020.
+\newblock Submitted.
 
 \end{LTRbibitems}
 

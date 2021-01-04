@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2020.4.8)  16 OCT 2020 22:21
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2020.4.8)  4 JAN 2021 07:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1803,21 +1803,30 @@ guage=DFLT;mapping=tex-text;!
 * 'Parsi'.
 * 'Default' language used instead.
 *************************************************
+File: MSc-Projects.png Graphic file (type QTm)
+<use  "MSc-Projects.png" >
+*************************************************
+* fontspec warning: "language-not-exist"
+* 
+* Language 'Parsi' not available for font 'IRLotusICEE.ttf' with script
+* 'Parsi'.
+* 'Default' language used instead.
+*************************************************
 [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
  (./Amintoosi_CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 223.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 223.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
- 32927 strings out of 493638
+ 32930 strings out of 493638
  637032 string characters out of 4894395
- 6644499 words of memory out of 18000000
- 35832 multiletter control sequences out of 15000+600000
+ 6644498 words of memory out of 18000000
+ 35833 multiletter control sequences out of 15000+600000
  8338 words of font info for 88 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,15n,72p,10558b,691s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,15n,72p,10558b,695s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Amintoosi_CV.pdf (8 pages).
