@@ -5,6 +5,21 @@
 
 \begin{RTLbibitems}
 
+\bibitem{ModifiedGA-iranaict99}
+\Persiantext{
+امین‌طوسی, محمود و عزتی, هاشم.
+\newblock الگوریتم ژنتیکِ آگاه از بهترین عضو با
+  کاربرد در رنگ‌آمیزی و بعدمتریک گراف.
+\newblock {\em نشریه فناوری اطلاعات و ارتباطات
+  ایران}, 12(42,43):143--154, ۱۳۹۹.
+\newblock \lr{The aware genetic algorithm of the best member, applied to graph
+  coloring and metric-dimension of the graph problem}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
 \bibitem{mattingJSDP98}
 \Persiantext{
 امین‌طوسی, محمود.
@@ -45,7 +60,8 @@
 \newblock محاسبه بعد متریک گراف با الگوریتم
   شبیه‌سازی تبریدی.
 \newblock  در {\em سومین سمینار کنترل و
-  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+  بهینه‌سازی},  صفحات  39--42, دانشگاه حکیم
+  سبزواری, ۱۳۹۸.
 \newblock \lr{Computing Graph Metric Dimension using Simulated Annealing,
   (2019)}.
 }
@@ -61,7 +77,8 @@
 \newblock شبکه مولد رقابتی، انواع و کاربرد
   آن‌ها.
 \newblock  در {\em سومین سمینار کنترل و
-  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+  بهینه‌سازی},  صفحات  79--82, دانشگاه حکیم
+  سبزواری, ۱۳۹۸.
 \newblock \lr{Generative Adversarial Networks: Types and Applications, (2019)}.
 }
 
@@ -75,7 +92,8 @@
 \newblock بررسی نا کارآمدی الگوریتم کارگر در
   برش کمینه گرافهای وزن دار.
 \newblock  در {\em سومین سمینار کنترل و
-  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+  بهینه‌سازی},  صفحات  21--24, دانشگاه حکیم
+  سبزواری, ۱۳۹۸.
 \newblock \lr{Investigation of useless of Karger's method in weighted graph for
   minimim cut problem, (2019)}.
 }
@@ -580,6 +598,23 @@
   ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
 \newblock \lr{Tiling Problem using Neural Networks and Genetic
   Algorithm(2000)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Nejadkoorki}
+\Persiantext{
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock شبیه سازی و برآورد میزان گردوغبار
+  صنایع با مدل شبکه عصبی چند لایه پرسپترون
+  (مطالعه موردی: کارخانه سیمان سبزوار).
+\newblock {\em مجله سلامت کار ایران}, 17(1), 1399.
+\newblock \lr{Simulation and Estimation of the amount of Dust in Industry with
+  Perceptron Multi-layer Neural Network Model (Case Study: Sabzevar Cement
+  Factory)}.
 }
 
 \end{RTLbibitems}
