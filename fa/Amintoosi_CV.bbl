@@ -14,12 +14,21 @@
 \newblock در حال داوری.
 
 
+\bibitem{Reg-OBD-Corona-Detection}
+امین‌طوسی, محمود.
+\newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
+  بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق
+  با کاربرد در شناسایی کووید۱۹.
+\newblock {\em مجله}, -(-):--, ۱۴۰۰.
+\newblock در حال داوری.
+
+
 \bibitem{CNN-Corona-Detection}
 امین‌طوسی, محمود.
-\newblock استفاده از روش آسیب مغزی بهینه‌ در
-  کوچک‌سازی یک مدل یادگیری عمیق برای
-  شناسایی کووید۱۹.
-\newblock {\em مجله مهندسی پزشکی زیستی}, -(-):--, ۱۳۹۹.
+\newblock هرس اتصالات مدل یادگیری عمیق در
+  شناسایی کووید۱۹ بر اساس تصاویر برش‌نگاری
+  رایانه‌ای.
+\newblock {\em مجله}, -(-):--, ۱۴۰۰.
 \newblock در حال داوری.
 
 
@@ -92,7 +101,7 @@ Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
 \newblock On the minimum of true matches in exact graph matching with simulated
   annealing.
 \newblock {\em Journal of Algorithms and Computation}, -, 2020.
-\newblock Submitted.
+\newblock Accepted.
 
 \end{LTRbibitems}
 
