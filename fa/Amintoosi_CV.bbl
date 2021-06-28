@@ -6,19 +6,15 @@
 
 \bibitem{FCNN_in_calligraphy_Classification99}
 امین‌طوسی, محمود.
-\newblock شبکه پیچشی عمیق با اندازه ورودی متغیر
-  در تشخیص تابلوهای خوشنویسی با
-  رسم‌الخطهای شکسته نستعلیق و ثلث.
-\newblock {\em نشریه مهندسی برق و مهندسی کامپیوتر
-  ایران}, -(-):--, ۱۳۹۹.
-\newblock در حال داوری.
+\newblock تمام متصل به تمام پیچشی: پلی به گذشته.
+\newblock {\em مجله}, -(-):--, ۱۴۰۰.
+\newblock ارسال شده.
 
 
 \bibitem{Reg-OBD-Corona-Detection}
 امین‌طوسی, محمود.
 \newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
-  بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق
-  با کاربرد در شناسایی کووید۱۹.
+  بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
 \newblock {\em مجله}, -(-):--, ۱۴۰۰.
 \newblock در حال داوری.
 
@@ -100,8 +96,7 @@ Amintoosi, Mahmood and Farbiz, Farzam.
 Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
 \newblock On the minimum of true matches in exact graph matching with simulated
   annealing.
-\newblock {\em Journal of Algorithms and Computation}, -, 2020.
-\newblock Accepted.
+\newblock {\em Journal of Algorithms and Computation}, 53(1):123--134, 2021.
 
 \end{LTRbibitems}
 
@@ -137,7 +132,7 @@ Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
   Mahmood.
 \newblock Prediction of the air quality by artificial neural network using
   instability indices in the city of tehran-iran.
-\newblock {\em AUT Journal of Civil Engineering},  pp.~--, 2019.
+\newblock {\em AUT Journal of Civil Engineering}, 4(4):--, 2020.
 
 \end{LTRbibitems}
 
