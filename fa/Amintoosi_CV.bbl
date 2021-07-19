@@ -15,8 +15,9 @@
 امین‌طوسی, محمود.
 \newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
   بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
-\newblock {\em مجله}, -(-):--, ۱۴۰۰.
-\newblock در حال داوری.
+\newblock {\em ماشین بینایی و پردازش تصویر}, -(-):--,
+  ۱۴۰۰.
+\newblock پذیرفته شده.
 
 
 \bibitem{CNN-Corona-Detection}
@@ -25,7 +26,7 @@
   شناسایی کووید۱۹ بر اساس تصاویر برش‌نگاری
   رایانه‌ای.
 \newblock {\em مجله}, -(-):--, ۱۴۰۰.
-\newblock در حال داوری.
+\newblock نیازمند بازنگری.
 
 
 \bibitem{TaylorExpansion_in_CNN_prunning99}
@@ -49,7 +50,7 @@
 Amintoosi, Mahmood and Farbiz, Farzam.
 \newblock Eigenbackground revisited: Can we model the background with
   eigenvectors?
-\newblock {\em IEEE TIP}, -:--, 2021.
+\newblock {\em Journal}, -:--, 2021.
 \newblock Submitted.
 
 \end{LTRbibitems}
