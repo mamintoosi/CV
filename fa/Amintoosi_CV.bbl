@@ -3,6 +3,16 @@
 \providecommand{\noopsort}[1]{}
 \begin{thebibliography}{10}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{GCN-JAC2021}
+Amintoosi, Mahmood.
+\newblock Overlapping clusters in cluster convolutional networks.
+\newblock {\em Journal of Algorithms and Computation}, 2021.
+\newblock Submitted.
+
+\end{LTRbibitems}
+
 
 \bibitem{FCNN_in_calligraphy_Classification99}
 امین‌طوسی, محمود.
@@ -11,13 +21,23 @@
 \newblock ارسال شده.
 
 
+\bibitem{Nejadkoorki_teb}
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock مدل سازی پخش آلاینده های nox، co، so2 و pm
+  ناشی از کارخانه سیمان سبزوار با استفاده از
+  نرم افزار screen3.
+\newblock {\em فصلنامه طب کار}, 17(1), 1400.
+\newblock پذیرفته شده.
+
+
 \bibitem{Reg-OBD-Corona-Detection}
 امین‌طوسی, محمود.
 \newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
   بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
 \newblock {\em ماشین بینایی و پردازش تصویر}, -(-):--,
   ۱۴۰۰.
-\newblock پذیرفته شده.
+\newblock پذیرفته شده، آماده انتشار.
 
 
 \bibitem{CNN-Corona-Detection}
