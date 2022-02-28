@@ -21,11 +21,7 @@
   Address                  = {},
   note = {پذیرفته شده، آماده انتشار},
   Language                 = {persian},
-    key = {14010217},
-	publisher = {دانشگاه اصفهان},
-issn = {2251-6530}, 
-eissn = {2252-083X}, 
-doi = {10.22108/isee.2021.124044.1490},
+    key = {14010217}
 }
 
 @Article{Reg-OBD-Corona-Detection,
@@ -33,13 +29,17 @@ doi = {10.22108/isee.2021.124044.1490},
   Author                   = {محمود امین‌طوسی },
   Journal                  = { ماشین بینایی و پردازش تصویر},
   Year                     = {۱۴۰۱},
-  Number                   = {1},
-  Pages                    = {31--45},
-  Volume                   = {9},
+  Number                   = {-},
+  Pages                    = {-},
+  Volume                   = {-},
   Address                  = {},
+  note = {پذیرفته شده، آماده انتشار},
   Language                 = {persian},
-    key = {14010117},
-
+    key = {14010217},
+publisher = {دانشگاه اصفهان},
+issn = {2251-6530}, 
+eissn = {2252-083X}, 
+doi = {10.22108/isee.2021.124044.1490},
 }
 
 
