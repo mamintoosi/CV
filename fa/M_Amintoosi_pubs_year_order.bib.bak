@@ -3,9 +3,16 @@
                Farzam Farbiz},
   title     = {Eigenbackground Revisited: Can We Model the Background with Eigenvectors?},
   journal   = {Journal of Mathematical Imaging and Vision},
-  volume    = {-},
+  volume    = {2022},
+  year      = {2022}
+}
+
+@article{Visual-2022,
+  author    = {Mina Mortazavi and Morteza Gachpazan and Mahmood Amintoosi and Soheil Salashour},
+  title     = {Fractional Derivative Approach to Sparse Super Resolution},
+  journal   = {The Visual Computer},
+  volume    = {},
   year      = {2022},
-  pages  ={-},
   note = {Accepted}
 }
 
@@ -21,7 +28,11 @@
   Address                  = {},
   note = {پذیرفته شده، آماده انتشار},
   Language                 = {persian},
-    key = {14010217}
+    key = {14010217},
+	publisher = {دانشگاه اصفهان},
+issn = {2251-6530}, 
+eissn = {2252-083X}, 
+doi = {10.22108/isee.2021.124044.1490},
 }
 
 @Article{Reg-OBD-Corona-Detection,
@@ -29,17 +40,13 @@
   Author                   = {محمود امین‌طوسی },
   Journal                  = { ماشین بینایی و پردازش تصویر},
   Year                     = {۱۴۰۱},
-  Number                   = {-},
-  Pages                    = {-},
-  Volume                   = {-},
+  Number                   = {1},
+  Pages                    = {31--45},
+  Volume                   = {9},
   Address                  = {},
-  note = {پذیرفته شده، آماده انتشار},
   Language                 = {persian},
-    key = {14010217},
-publisher = {دانشگاه اصفهان},
-issn = {2251-6530}, 
-eissn = {2252-083X}, 
-doi = {10.22108/isee.2021.124044.1490},
+    key = {14010117},
+
 }
 
 

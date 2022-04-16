@@ -9,7 +9,16 @@
 Amintoosi, Mahmood and Farbiz, Farzam.
 \newblock Eigenbackground revisited: Can we model the background with
   eigenvectors?
-\newblock {\em Journal of Mathematical Imaging and Vision}, -:--, 2022.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Visual-2022}
+Mortazavi, Mina, Gachpazan, Morteza, Amintoosi, Mahmood, and Salashour, Soheil.
+\newblock Fractional derivative approach to sparse super resolution.
+\newblock {\em The Visual Computer}, 2022.
 \newblock Accepted.
 
 \end{LTRbibitems}
