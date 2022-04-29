@@ -1,9 +1,24 @@
+@Article{FC2FC_2022,
+  Title                    = {تمام متصل به تمام پیچشی: پلی به گذشته},
+  Author                   = {محمود امین‌طوسی },
+  Journal                  = {رایانش نرم و فناوری اطلاعات},
+  Year                     = {۱۴۰۱},
+  Number                   = {-},
+  Pages                    = {-},
+  Volume                   = {-},
+  Address                  = {},
+  note = {ماده انتشار},
+  Language                 = {persian},
+    key = {14010317},
+	publisher = {دانشگاه صنعتی نوشیروانی بابل}
+}
+
 @article{JMIV-2022,
   author    = {Mahmood Amintoosi and
                Farzam Farbiz},
   title     = {Eigenbackground Revisited: Can We Model the Background with Eigenvectors?},
   journal   = {Journal of Mathematical Imaging and Vision},
-  volume    = {2022},
+  volume    = {},
   year      = {2022}
 }
 

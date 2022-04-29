@@ -3,6 +3,14 @@
 \providecommand{\noopsort}[1]{}
 \begin{thebibliography}{10}
 
+
+\bibitem{FC2FC_2022}
+امین‌طوسی, محمود.
+\newblock تمام متصل به تمام پیچشی: پلی به گذشته.
+\newblock {\em رایانش نرم و فناوری اطلاعات}, -(-):--,
+  ۱۴۰۱.
+\newblock پذیرفته شده.
+
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{JMIV-2022}
