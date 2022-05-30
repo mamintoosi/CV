@@ -1,3 +1,12 @@
+@article{JMM-2022,
+  author    = {Mina Mortazavi and Morteza Gachpazan and Mahmood Amintoosi},
+  title     = {Improving Canny Edge Detection Algorithm Using Fractional-Order Derivatives},
+  journal   = {Journal of Mathematical Modeling},
+  volume    = {},
+  year      = {2022},
+  note = {(Accepted \rl{در پرونده ارتقا لحاظ نشده است.})}  
+}
+
 @Article{FC2FC_2022,
   Title                    = {تمام متصل به تمام پیچشی: پلی به گذشته},
   Author                   = {محمود امین‌طوسی },
@@ -7,7 +16,7 @@
   Pages                    = {-},
   Volume                   = {-},
   Address                  = {},
-  note = {ماده انتشار},
+  note = {(پذیرفته شده، در پرونده ارتقا لحاظ نشده است.)},
   Language                 = {persian},
     key = {14010317},
 	publisher = {دانشگاه صنعتی نوشیروانی بابل}
@@ -335,6 +344,17 @@ Authorfa                 = {
   Address                  = {دانشگاه اصفهان},
   Language                 = {persian},
     key = {13960501}
+}
+
+@InProceedings{Hokmabadi96Coco,
+  Title                    = {Solving uncapacitated facility location problem by cuckoo optimization algorithm},
+  Author                   = {Somayye Hokmabadi and Mahmood Amintoosi and Mohammad Ali Partanian},
+  Booktitle                = {$48^{th}$ Annual Iranian Mathematics Conference},
+  Year                     = {2017},
+
+  Address                  = {Hamedan},
+  Date                     = {1396-06},
+  key = {139606}
 }
 
 @InProceedings{Assaran96KSVD,

@@ -4,27 +4,48 @@
 \begin{thebibliography}{10}
 
 
-\bibitem{MAG2020FD}
-Mortazavi, M., Amintoosi, M., and Gachpazan, M.
-\newblock Fractional derivative in sparse super resolution.
-\newblock {\em A Journal}, -:--, 2021.
-\newblock Submitted.
+\bibitem{Farhadi2022}
+Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
+\newblock Prediction of co and pm10 in cold and warm seasons and survey of the
+  effect of instability indices on contaminants using artificial neural
+  network: A case study in tehran city.
+\newblock {\em Iranian (Iranica) Journal of Energy \& Environment},
+  13(1):71--78, 2022.
 
 
-\bibitem{AF2020BG}
-Amintoosi, M. and Farbiz, F.
+\bibitem{Visual-2022}
+Mortazavi, Mina, Gachpazan, Morteza, Amintoosi, Mahmood, and Salashour, Soheil.
+\newblock Fractional derivative approach to sparse super resolution.
+\newblock {\em The Visual Computer}, 2022.
+\newblock Accepted.
+
+
+\bibitem{JMIV-2022}
+Amintoosi, Mahmood and Farbiz, Farzam.
 \newblock Eigenbackground revisited: Can we model the background with
   eigenvectors?
-\newblock {\em A Journal}, -:--, 2021.
-\newblock Submitted.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 2022.
+
+
+\bibitem{JMM-2022}
+Mortazavi, Mina, Gachpazan, Morteza, and Amintoosi, Mahmood.
+\newblock Improving canny edge detection algorithm using fractional-order
+  derivatives.
+\newblock {\em Journal of Mathematical Modeling}, 2022.
+\newblock (Accepted).
 
 
 \bibitem{Ezzati99}
 Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
 \newblock On the minimum of true matches in exact graph matching with simulated
   annealing.
-\newblock {\em A Journal}, -, 2020.
-\newblock Submitted.
+\newblock {\em Journal of Algorithms and Computation}, 53(1):123--134, 2021.
+
+
+\bibitem{GCN-JAC2021}
+Amintoosi, Mahmood.
+\newblock Overlapping clusters in cluster convolutional networks.
+\newblock {\em Journal of Algorithms and Computation}, 53(2):33--45, 2021.
 
 
 \bibitem{Farhadi2019}

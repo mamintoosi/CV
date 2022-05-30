@@ -5,6 +5,47 @@
 
 \begin{RTLbibitems}
 
+\bibitem{Reg-OBD-Corona-Detection}
+\Persiantext{
+امین‌طوسی, محمود.
+\newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
+  بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
+\newblock {\em ماشین بینایی و پردازش تصویر},
+  9(1):31--45, ۱۴۰۱.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{ST_for_DA_2022}
+\Persiantext{
+امین‌طوسی, محمود.
+\newblock انتقال سبک برای افزایش داده‌های
+  آموزشی شبکه‌های کانولوشنی در شناسایی
+  شعلۀ آتش.
+\newblock {\em هوش محاسباتی در مهندسی برق}, -(-):--,
+  ۱۴۰۱.
+\newblock پذیرفته شده، آماده انتشار.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{FC2FC_2022}
+\Persiantext{
+امین‌طوسی, محمود.
+\newblock تمام متصل به تمام پیچشی: پلی به گذشته.
+\newblock {\em رایانش نرم و فناوری اطلاعات}, -(-):--,
+  ۱۴۰۱.
+\newblock (پذیرفته شده).
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
 \bibitem{ModifiedGA-iranaict99}
 \Persiantext{
 امین‌طوسی, محمود و عزتی, هاشم.
@@ -94,8 +135,8 @@
 \newblock  در {\em سومین سمینار کنترل و
   بهینه‌سازی},  صفحات  21--24, دانشگاه حکیم
   سبزواری, ۱۳۹۸.
-\newblock \lr{Investigation of useless of Karger's method in weighted graph for
-  minimim cut problem, (2019)}.
+\newblock \lr{Inefficiency of the Karger's Algorithm in Min-Cut of Weighted
+  Graph, (2019)}.
 }
 
 \end{RTLbibitems}
@@ -324,7 +365,7 @@
 \newblock برش کمینه‌ی گراف باجستجوی ممنوعه.
 \newblock  در {\em هفتمین کنفرانس بین‌المللی
   انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
-\newblock \lr{Graph Minumum Cut udsing Tabu Search, (2014)}.
+\newblock \lr{Graph Minumum Cut using Tabu Search, (2014)}.
 }
 
 \end{RTLbibitems}
@@ -338,7 +379,7 @@
   تبریدی.
 \newblock  در {\em هفتمین کنفرانس بین‌المللی
   انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
-\newblock \lr{Graph Minumum Cut udsing SA, (2014)}.
+\newblock \lr{Graph Minumum Cut using SA, (2014)}.
 }
 
 \end{RTLbibitems}

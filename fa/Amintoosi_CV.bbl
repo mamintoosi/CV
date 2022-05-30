@@ -3,13 +3,24 @@
 \providecommand{\noopsort}[1]{}
 \begin{thebibliography}{10}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{JMM-2022}
+Mortazavi, Mina, Gachpazan, Morteza, and Amintoosi, Mahmood.
+\newblock Improving canny edge detection algorithm using fractional-order
+  derivatives.
+\newblock {\em Journal of Mathematical Modeling}, 2022.
+\newblock (Accepted).
+
+\end{LTRbibitems}
+
 
 \bibitem{FC2FC_2022}
 امین‌طوسی, محمود.
 \newblock تمام متصل به تمام پیچشی: پلی به گذشته.
 \newblock {\em رایانش نرم و فناوری اطلاعات}, -(-):--,
   ۱۴۰۱.
-\newblock پذیرفته شده.
+\newblock (پذیرفته شده).
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -233,6 +244,17 @@ Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
 \newblock زی‌پرشین، فراتر از یک ابزار
   ریاضی‌نویسی.
 \newblock {\em نشریه ریاضی و جامعه}, ۲(۲):۱--۱۷, ۱۳۹۶.
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Hokmabadi96Coco}
+Hokmabadi, Somayye, Amintoosi, Mahmood, and Partanian, Mohammad~Ali.
+\newblock Solving uncapacitated facility location problem by cuckoo
+  optimization algorithm.
+\newblock  in {\em $48^{th}$ Annual Iranian Mathematics Conference}, Hamedan,
+  2017.
+
+\end{LTRbibitems}
 
 
 \bibitem{Assaran96KSVD}
