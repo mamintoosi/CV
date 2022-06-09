@@ -12,6 +12,8 @@
   بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
 \newblock {\em ماشین بینایی و پردازش تصویر},
   9(1):31--45, ۱۴۰۱.
+\newblock \lr{Combining a Regularization Method and the Optimal Brain Damage
+  Method for Reducing a Deep Learning Model Size}.
 }
 
 \end{RTLbibitems}
