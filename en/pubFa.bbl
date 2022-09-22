@@ -28,7 +28,8 @@
   شعلۀ آتش.
 \newblock {\em هوش محاسباتی در مهندسی برق}, -(-):--,
   ۱۴۰۱.
-\newblock پذیرفته شده، آماده انتشار.
+\newblock \lr{Style Transfer for Data Augmentation in Convolutional Neural
+  Networks Applied to Fire Detection}.
 }
 
 \end{RTLbibitems}
@@ -39,9 +40,26 @@
 \Persiantext{
 امین‌طوسی, محمود.
 \newblock تمام متصل به تمام پیچشی: پلی به گذشته.
-\newblock {\em رایانش نرم و فناوری اطلاعات}, -(-):--,
-  ۱۴۰۱.
-\newblock (پذیرفته شده).
+\newblock {\em رایانش نرم و فناوری اطلاعات},
+  11(1):60--72, ۱۴۰۱.
+\newblock \lr{Fully Connected to Fully Convolutional: Road to Yesterday}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Nejadkoorki}
+\Persiantext{
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock شبیه سازی و برآورد میزان گردوغبار
+  صنایع با مدل شبکه عصبی چند لایه پرسپترون
+  (مطالعه موردی: کارخانه سیمان سبزوار).
+\newblock {\em مجله سلامت کار ایران}, 17(1), ۱۳۹۹.
+\newblock \lr{Simulation and Estimation of the amount of Dust in Industry with
+  Perceptron Multi-layer Neural Network Model (Case Study: Sabzevar Cement
+  Factory)}.
 }
 
 \end{RTLbibitems}
@@ -641,23 +659,6 @@
   ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
 \newblock \lr{Tiling Problem using Neural Networks and Genetic
   Algorithm(2000)}.
-}
-
-\end{RTLbibitems}
-
-\begin{RTLbibitems}
-
-\bibitem{Nejadkoorki}
-\Persiantext{
-کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
-  امین‌طوسی, محمود.
-\newblock شبیه سازی و برآورد میزان گردوغبار
-  صنایع با مدل شبکه عصبی چند لایه پرسپترون
-  (مطالعه موردی: کارخانه سیمان سبزوار).
-\newblock {\em مجله سلامت کار ایران}, 17(1), 1399.
-\newblock \lr{Simulation and Estimation of the amount of Dust in Industry with
-  Perceptron Multi-layer Neural Network Model (Case Study: Sabzevar Cement
-  Factory)}.
 }
 
 \end{RTLbibitems}
