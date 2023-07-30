@@ -23,3 +23,5 @@
 *.bcf
 *.gz
 *.bak
+*.fls
+*.fdb*
