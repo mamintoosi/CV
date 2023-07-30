@@ -74,7 +74,7 @@ Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
 \resetlatinfont
 \bibitem{GCN-JAC2021}
 Amintoosi, Mahmood.
-\newblock Overlapping clusters in cluster convolutional networks.
+\newblock Overlapping clusters in cluster graph convolutional networks.
 \newblock {\em Journal of Algorithms and Computation}, 53(2):33--45, 2021.
 
 \end{LTRbibitems}
