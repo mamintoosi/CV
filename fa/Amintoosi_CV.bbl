@@ -5,10 +5,43 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Amintoosi2023Challenges}
+Amintoosi, Mahmood.
+\newblock Challenges and requirements of persian language support in citation
+  software.
+\newblock {\em Journal of Studies in Library and Information Science},  p. To
+  be published (In Persian), 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Amintoosi2023GFS-COAM}
+Amintoosi, Mahmood and Kohan-Baghkheirati, Eisa.
+\newblock Graph feature selection for anti-cancer plant recommendation.
+\newblock {\em Control and Optimization in Applied Mathematics}, 8(2):1--15,
+  2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{JMM-2022}
 Mortazavi, Mina, Gachpazan, Morteza, and Amintoosi, Mahmood.
-\newblock Improving canny edge detection algorithm using fractional-order derivatives.
+\newblock Improving canny edge detection algorithm using fractional-order
+  derivatives.
 \newblock {\em Journal of Mathematical Modeling}, 10(4):495--514, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Amintoosi2023FS-bio-math}
+Amintoosi, Mahmood and Kohan-Baghkheirati, Eisa.
+\newblock Feature selection for anti-cancer plant recommendation.
+\newblock  in {\em The 2nd International and 4th National Conference on
+  Biomathematics},  pp. 470--475, Babolsar, Iran, Feb 2023. University of
+  Mazandaran.
 
 \end{LTRbibitems}
 
@@ -16,14 +49,17 @@ Mortazavi, Mina, Gachpazan, Morteza, and Amintoosi, Mahmood.
 \bibitem{FC2FC_2022}
 امین‌طوسی, محمود.
 \newblock تمام متصل به تمام پیچشی: پلی به گذشته.
-\newblock {\em رایانش نرم و فناوری اطلاعات}, 11(1):60--72, ۱۴۰۱.
+\newblock {\em رایانش نرم و فناوری اطلاعات},
+  11(1):60--72, ۱۴۰۱.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{JMIV-2022}
 Amintoosi, Mahmood and Farbiz, Farzam.
-\newblock Eigenbackground revisited: Can we model the background with eigenvectors?
-\newblock {\em Journal of Mathematical Imaging and Vision}, 64(5):463--477, 2022.
+\newblock Eigenbackground revisited: Can we model the background with
+  eigenvectors?
+\newblock {\em Journal of Mathematical Imaging and Vision}, 64(5):463--477,
+  2022.
 
 \end{LTRbibitems}
 
@@ -40,21 +76,29 @@ Mortazavi, Mina, Gachpazan, Morteza, Amintoosi, Mahmood, and Salashour, Soheil.
 
 \bibitem{ST_for_DA_2022}
 امین‌طوسی, محمود.
-\newblock انتقال سبک برای افزایش داده‌های آموزشی شبکه‌های کانولوشنی در شناسایی شعلۀ آتش.
-\newblock {\em هوش محاسباتی در مهندسی برق}, 13(4):97--114, ۱۴۰۱.
+\newblock انتقال سبک برای افزایش داده‌های
+  آموزشی شبکه‌های کانولوشنی در شناسایی
+  شعلۀ آتش.
+\newblock {\em هوش محاسباتی در مهندسی برق},
+  13(4):97--114, ۱۴۰۱.
 
 
 \bibitem{Reg-OBD-Corona-Detection}
 امین‌طوسی, محمود.
-\newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
-\newblock {\em ماشین بینایی و پردازش تصویر}, 9(1):31--45, ۱۴۰۱.
+\newblock ترکیب روش منظم‌سازی تُنُک و آسیب مغزی
+  بهینه‌ در کوچک‌سازی یک مدل یادگیری عمیق.
+\newblock {\em ماشین بینایی و پردازش تصویر},
+  9(1):31--45, ۱۴۰۱.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Farhadi2022}
 Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
-\newblock Prediction of co and pm10 in cold and warm seasons and survey of the effect of instability indices on contaminants using artificial neural network: A case study in tehran city.
-\newblock {\em Iranian (Iranica) Journal of Energy \& Environment}, 13(1):71--78, 2022.
+\newblock Prediction of co and pm10 in cold and warm seasons and survey of the
+  effect of instability indices on contaminants using artificial neural
+  network: A case study in tehran city.
+\newblock {\em Iranian (Iranica) Journal of Energy \& Environment},
+  13(1):71--78, 2022.
 
 \end{LTRbibitems}
 
@@ -69,33 +113,45 @@ Amintoosi, Mahmood.
 
 
 \bibitem{Nejadkoorki_teb}
-کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و امین‌طوسی, محمود.
-\newblock مدل سازی پخش آلاینده های nox، co، so2 و pm ناشی از کارخانه سیمان سبزوار با استفاده از نرم افزار screen3.
-\newblock {\em فصلنامه علمی تخصصی طب کار}, 13(3):24--37, 1400.
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock مدل سازی پخش آلاینده های nox، co، so2 و pm
+  ناشی از کارخانه سیمان سبزوار با استفاده از
+  نرم افزار screen3.
+\newblock {\em فصلنامه علمی تخصصی طب کار}, 13(3):24--37,
+  1400.
 
 
 \bibitem{TaylorExpansion_in_CNN_prunning99}
 امین‌طوسی, محمود.
-\newblock کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور.
+\newblock کاربرد بسط تیلور در کاهش حجم شبکه های
+  عصبی پیچشی برای طبقه بندی نقاشی های سبک
+  امپرسیونیسم و مینیاتور.
 \newblock {\em نشریه ریاضی و جامعه}, 5(1):1--16, ۱۳۹۹.
 
 
 \bibitem{ModifiedGA-iranaict99}
 امین‌طوسی, محمود و عزتی, هاشم.
-\newblock الگوریتم ژنتیکِ آگاه از بهترین عضو با کاربرد در رنگ‌آمیزی و بعدمتریک گراف.
-\newblock {\em نشریه فناوری اطلاعات و ارتباطات ایران}, 12(42,43):143--154, ۱۳۹۹.
+\newblock الگوریتم ژنتیکِ آگاه از بهترین عضو با
+  کاربرد در رنگ‌آمیزی و بعدمتریک گراف.
+\newblock {\em نشریه فناوری اطلاعات و ارتباطات
+  ایران}, 12(42,43):143--154, ۱۳۹۹.
 
 
 \bibitem{Nejadkoorki}
-کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و امین‌طوسی, محمود.
-\newblock شبیه سازی و برآورد میزان گردوغبار صنایع با مدل شبکه عصبی چند لایه پرسپترون (مطالعه موردی: کارخانه سیمان سبزوار).
+کیخسروی, سید~سعید, نژاد~کورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock شبیه سازی و برآورد میزان گردوغبار
+  صنایع با مدل شبکه عصبی چند لایه پرسپترون
+  (مطالعه موردی: کارخانه سیمان سبزوار).
 \newblock {\em مجله سلامت کار ایران}, 17(1):136--147, 1399.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Ezzati99}
 Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
-\newblock On the minimum of true matches in exact graph matching with simulated annealing.
+\newblock On the minimum of true matches in exact graph matching with simulated
+  annealing.
 \newblock {\em Journal of Algorithms and Computation}, 53(1):123--134, 2021.
 
 \end{LTRbibitems}
@@ -103,8 +159,10 @@ Ezzati, Hashem, Amintoosi, Mahmood, and Tabasi, Hashem.
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Farhadi2020}
-Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi, Mahmood.
-\newblock Prediction of the air quality by artificial neural network using instability indices in the city of tehran-iran.
+Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
+  Mahmood.
+\newblock Prediction of the air quality by artificial neural network using
+  instability indices in the city of tehran-iran.
 \newblock {\em AUT Journal of Civil Engineering}, 4(4):9--9, 2020.
 
 \end{LTRbibitems}
@@ -112,47 +170,65 @@ Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi, Mahmoo
 
 \bibitem{Hosseini98-TSCO-Karger}
 حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
-\newblock بررسی نا کارآمدی الگوریتم کارگر در برش کمینه گرافهای وزن دار.
-\newblock  در {\em سومین سمینار کنترل و بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+\newblock بررسی نا کارآمدی الگوریتم کارگر در
+  برش کمینه گرافهای وزن دار.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
 
 
 \bibitem{Jokar98-TSCO-GAN}
-جوکار, فاطمه, امین‌طوسی, محمود, و صالحی‌ساداتی, سیده‌افسانه.
-\newblock شبکه مولد رقابتی، انواع و کاربرد آن‌ها.
-\newblock  در {\em سومین سمینار کنترل و بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+جوکار, فاطمه, امین‌طوسی, محمود, و
+  صالحی‌ساداتی, سیده‌افسانه.
+\newblock شبکه مولد رقابتی، انواع و کاربرد
+  آن‌ها.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
 
 
 \bibitem{Ezzati98-TSCO-GD}
 عزتی, هاشم و امین‌طوسی, محمود.
-\newblock محاسبه بعد متریک گراف با الگوریتم شبیه‌سازی تبریدی.
-\newblock  در {\em سومین سمینار کنترل و بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
+\newblock محاسبه بعد متریک گراف با الگوریتم
+  شبیه‌سازی تبریدی.
+\newblock  در {\em سومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه حکیم سبزواری, ۱۳۹۸.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Farhadi2019}
-Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi, Mahmood.
-\newblock Prediction of the air quality by artificial neural network using instability indices in the city of tehran-iran.
+Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
+  Mahmood.
+\newblock Prediction of the air quality by artificial neural network using
+  instability indices in the city of tehran-iran.
 \newblock {\em AUT Journal of Civil Engineering}, 4(4):--, 2020.
 
 \end{LTRbibitems}
 
 
 \bibitem{KeykhosraviMLP98}
-کیخسروی, سیدسعید, نژادکورکی, فرهاد, و امین‌طوسی, محمود.
-\newblock ارزیابی دقت‌ شبکه های عصبی مصنوعی (\lr{{MLP}} و \lr{{RBF}}) در پیش بینی گرد و غبار کارخانه سیمان سبزوار.
-\newblock {\em فصلنامه پژوهش در بهداشت محیط}, 5(1):234--245, ۱۳۹۸.
+کیخسروی, سیدسعید, نژادکورکی, فرهاد, و
+  امین‌طوسی, محمود.
+\newblock ارزیابی دقت‌ شبکه های عصبی مصنوعی
+  (\lr{{MLP}} و \lr{{RBF}}) در پیش بینی گرد و غبار
+  کارخانه سیمان سبزوار.
+\newblock {\em فصلنامه پژوهش در بهداشت محیط},
+  5(1):234--245, ۱۳۹۸.
 
 
 \bibitem{mattingJSDP98}
 امین‌طوسی, محمود.
-\newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی بر یادگیری با درنظر گرفتن وزن‌های مختلف برای زمینه و پیش‌زمینه.
-\newblock {\em پردازش علائم و داده‌ها}, 16(1):75--90, ۱۳۹۸.
+\newblock بهبود روش درهم‌تنیدگی تصویر‌ مبتنی
+  بر یادگیری با درنظر گرفتن وزن‌های مختلف
+  برای زمینه و پیش‌زمینه.
+\newblock {\em پردازش علائم و داده‌ها}, 16(1):75--90,
+  ۱۳۹۸.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Hadavifar2018SA}
 Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
-\newblock Sensitivity analysis of meteorological parameters and instability ‎indices on concentration of carbon monoxide, particulate ‎matter, and air quality index in tehran.
+\newblock Sensitivity analysis of meteorological parameters and instability
+  ‎indices on concentration of carbon monoxide, particulate ‎matter, and
+  air quality index in tehran.
 \newblock {\em ECOPERSIA}, 6(2), 2018.
 
 \end{LTRbibitems}
@@ -160,152 +236,214 @@ Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
 
 \bibitem{Khoshnevis97sparseOptWithGPU}
 امین‌طوسی, محمود و خوشنویس, بابک.
-\newblock افزایش سرعت بهینه‌سازی تُنُک با پردازش موازی روی gpu.
-\newblock  در {\em دومین سمینار کنترل و بهینه‌سازی}, دانشگاه صنعتی شاهرود, ۱۳۹۷.
+\newblock افزایش سرعت بهینه‌سازی تُنُک با
+  پردازش موازی روی gpu.
+\newblock  در {\em دومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه صنعتی شاهرود, ۱۳۹۷.
 \newblock \lr{(2018)}.
 
 
 \bibitem{Bakhti97knn}
 امین‌طوسی, محمود و بختی, پروین.
-\newblock طبقه‌بندی داده‌ها با درهم‌تنیدگی تصویر.
-\newblock  در {\em دومین سمینار کنترل و بهینه‌سازی}, دانشگاه صنعتی شاهرود, ۱۳۹۷.
+\newblock طبقه‌بندی داده‌ها با درهم‌تنیدگی
+  تصویر.
+\newblock  در {\em دومین سمینار کنترل و
+  بهینه‌سازی}, دانشگاه صنعتی شاهرود, ۱۳۹۷.
 
 
 \bibitem{Nemati96GA}
-نعمتی, مهدی, امین‌طوسی, محمود, و زعفرانیه, مهدی.
-\newblock مقدار دهی اولیه گرادیان مزدوج در خوشه بندی طیفی با الگوریتم ژنتیک.
-\newblock  در {\em ششمین سمینار آنالیز هارمونیک و کاربردها}, دانشگاه حکیم سبزواری, ۱۳۹۶.
+نعمتی, مهدی, امین‌طوسی, محمود, و زعفرانیه,
+  مهدی.
+\newblock مقدار دهی اولیه گرادیان مزدوج در خوشه
+  بندی طیفی با الگوریتم ژنتیک.
+\newblock  در {\em ششمین سمینار آنالیز هارمونیک و
+  کاربردها}, دانشگاه حکیم سبزواری, ۱۳۹۶.
 
 
 \bibitem{Ezzati96graph}
 عزتی, هاشم, امین‌طوسی, محمود, و طبسی, هاشم.
-\newblock یک حد بالا برای حداقل تعداد تطابقات درست در مسئله تطابق گراف با روش‌های مبتنی بر جستجوی تصادفی.
-\newblock  در {\em چهل و هشتمین کنفرانس ریاضی ایران}, همدان, ۱۳۹۶.
+\newblock یک حد بالا برای حداقل تعداد تطابقات
+  درست در مسئله تطابق گراف با روش‌های مبتنی
+  بر جستجوی تصادفی.
+\newblock  در {\em چهل و هشتمین کنفرانس ریاضی
+  ایران}, همدان, ۱۳۹۶.
 
 
 \bibitem{xepersianMSCI}
 امین‌طوسی, محمود.
-\newblock زی‌پرشین، فراتر از یک ابزار ریاضی‌نویسی.
+\newblock زی‌پرشین، فراتر از یک ابزار
+  ریاضی‌نویسی.
 \newblock {\em نشریه ریاضی و جامعه}, ۲(۲):۱--۱۷, ۱۳۹۶.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Hokmabadi96Coco}
 Hokmabadi, Somayye, Amintoosi, Mahmood, and Partanian, Mohammad~Ali.
-\newblock Solving uncapacitated facility location problem by cuckoo optimization algorithm.
-\newblock  in {\em $48^{th}$ Annual Iranian Mathematics Conference}, Hamedan, 2017.
+\newblock Solving uncapacitated facility location problem by cuckoo
+  optimization algorithm.
+\newblock  in {\em $48^{th}$ Annual Iranian Mathematics Conference}, Hamedan,
+  2017.
 
 \end{LTRbibitems}
 
 
 \bibitem{Assaran96KSVD}
-عصاران, آلاله, حامدی, راضیه, و امین‌طوسی, محمود.
+عصاران, آلاله, حامدی, راضیه, و امین‌طوسی,
+  محمود.
 \newblock بهبود فراتفکیک پذیری با نمایش تنک.
-\newblock  در {\em چهارمین کنفرانس ملی فناوری اطلاعات،‌کامپیوتر و مخابرات}, تربت حیدیریه, ۱۳۹۶.
+\newblock  در {\em چهارمین کنفرانس ملی فناوری
+  اطلاعات،‌کامپیوتر و مخابرات}, تربت
+  حیدیریه, ۱۳۹۶.
 
 
 \bibitem{xepersianBookRAT}
-رضویان, سیدمحمدجواد, امین‌طوسی, محمود, و طیبی, اکبر.
-\newblock {\em مقدمه‌ای بر زی‌پرشین و ریاضی‌نویسی در لاتک}.
+رضویان, سیدمحمدجواد, امین‌طوسی, محمود, و
+  طیبی, اکبر.
+\newblock {\em مقدمه‌ای بر زی‌پرشین و
+  ریاضی‌نویسی در لاتک}.
 \newblock دانشگاه حکیم سبزواری, ۱۳۹۶.
 
 
 \bibitem{Amintoosi96IPRIA-Matting}
 امین‌طوسی, محمود.
-\newblock دقیق‌تر کردن استخراج رگ‌های خونی شبکیه چشم با روش درهم‌تنیدگی تصویر‌ مبتنی بر نزدیک‌ترین همسایگی.
-\newblock  در {\em سومین کنفرانس بین المللی بازشناسی الگو و تحلیل تصویر ایران}, دانشگاه شهرکرد, ۱۳۹۶.
+\newblock دقیق‌تر کردن استخراج رگ‌های خونی
+  شبکیه چشم با روش درهم‌تنیدگی تصویر‌
+  مبتنی بر نزدیک‌ترین همسایگی.
+\newblock  در {\em سومین کنفرانس بین المللی
+  بازشناسی الگو و تحلیل تصویر ایران},
+  دانشگاه شهرکرد, ۱۳۹۶.
 
 
 \bibitem{Amintoosi96IPRIA-BlockNorm}
-حامدی, راضیه, امین‌طوسی, محمود, و زعفرانیه, مهدی.
-\newblock استفاده از نرم بلوکی در بهینه‌سازی تُنُک با کاربرد در فراتفکیک‌پذیری.
-\newblock  در {\em سومین کنفرانس بین المللی بازشناسی الگو و تحلیل تصویر ایران}, دانشگاه شهرکرد, ۱۳۹۶.
+حامدی, راضیه, امین‌طوسی, محمود, و زعفرانیه,
+  مهدی.
+\newblock استفاده از نرم بلوکی در بهینه‌سازی
+  تُنُک با کاربرد در فراتفکیک‌پذیری.
+\newblock  در {\em سومین کنفرانس بین المللی
+  بازشناسی الگو و تحلیل تصویر ایران},
+  دانشگاه شهرکرد, ۱۳۹۶.
 
 
 \bibitem{Amintoosi96IPRIA-ELM}
-امین‌طوسی, محمود, خورسندی, سکینه, و زعفرانیه, مهدی.
-\newblock ارزیابی عملکرد ماشین یادگیر نهایی در قطعه‌بندی تصاویر.
-\newblock  در {\em سومین کنفرانس بین المللی بازشناسی الگو و تحلیل تصویر ایران}, دانشگاه شهرکرد, ۱۳۹۶.
+امین‌طوسی, محمود, خورسندی, سکینه, و
+  زعفرانیه, مهدی.
+\newblock ارزیابی عملکرد ماشین یادگیر نهایی در
+  قطعه‌بندی تصاویر.
+\newblock  در {\em سومین کنفرانس بین المللی
+  بازشناسی الگو و تحلیل تصویر ایران},
+  دانشگاه شهرکرد, ۱۳۹۶.
 
 
 \bibitem{Amintoosi94spectral}
 امین‌طوسی, محمود و فیاض, طیبه.
-\newblock محاسبه پارامترهای خوشه‌بندی طیفی در تصاویر \lr{MRI} با الگوریتم ژنتیک.
-\newblock  در {\em هشتمین کنفرانس بین‌المللی انجمن ایرانی تحقیق در عملیات}, دانشگاه فردوسی مشهد, ۱۳۹۴.
+\newblock محاسبه پارامترهای خوشه‌بندی طیفی در
+  تصاویر \lr{MRI} با الگوریتم ژنتیک.
+\newblock  در {\em هشتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, دانشگاه
+  فردوسی مشهد, ۱۳۹۴.
 
 
 \bibitem{Farhadi95ANN}
-فرهادی, راضیه, فر, مجتبي~هادوي, الدینی, مظاهر~معین, و امین‌طوسی, محمود.
-\newblock پیش بینی غلظت آلاینده های هوای شهر تهران بر اساس عوامل اقلیمی با استفاده از شبکه عصبی مصنوعی.
-\newblock  در {\em سومین همایش یافته های نوین در محیط زیست و اکوسیستم های کشاورزی}, دانشگاه تهران, ۱۳۹۵.
+فرهادی, راضیه, فر, مجتبي~هادوي, الدینی,
+  مظاهر~معین, و امین‌طوسی, محمود.
+\newblock پیش بینی غلظت آلاینده های هوای شهر
+  تهران بر اساس عوامل اقلیمی با استفاده از
+  شبکه عصبی مصنوعی.
+\newblock  در {\em سومین همایش یافته های نوین در
+  محیط زیست و اکوسیستم های کشاورزی}, دانشگاه
+  تهران, ۱۳۹۵.
 
 
 \bibitem{Amintoosi94matting}
 امین‌طوسی, محمود و رشیدآبادی, فرزانه.
-\newblock آشکارسازی بهتر شریان‌های کرونری قلب با یاد‌گیری نیمه‌نظارتی‌خودکار.
-\newblock  در {\em هشتمین کنفرانس بین‌المللی انجمن ایرانی تحقیق در عملیات}, دانشگاه فردوسی مشهد, ۱۳۹۴.
+\newblock آشکارسازی بهتر شریان‌های کرونری قلب
+  با یاد‌گیری نیمه‌نظارتی‌خودکار.
+\newblock  در {\em هشتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, دانشگاه
+  فردوسی مشهد, ۱۳۹۴.
 
 
 \bibitem{Shahi93UFLP}
-شاهی, سمیرا, امین‌طوسی, محمود, و زعفرانیه, مهدی.
+شاهی, سمیرا, امین‌طوسی, محمود, و زعفرانیه,
+  مهدی.
 \newblock مقایسه سه روش فراابتکاری در حل \lr{UFLP}.
-\newblock  در {\em هفتمین کنفرانس بین‌المللی انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
+\newblock  در {\em هفتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
 
 
 \bibitem{Hoseini93mincutSA}
 حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
-\newblock برش کمینه‌ی گراف با شبیه‌سازی تبریدی.
-\newblock  در {\em هفتمین کنفرانس بین‌المللی انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
+\newblock برش کمینه‌ی گراف با شبیه‌سازی
+  تبریدی.
+\newblock  در {\em هفتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
 
 
 \bibitem{Hoseini93mincutTS}
 حسینی, فاطمه‌سادات و امین‌طوسی, محمود.
 \newblock برش کمینه‌ی گراف باجستجوی ممنوعه.
-\newblock  در {\em هفتمین کنفرانس بین‌المللی انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
+\newblock  در {\em هفتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, سمنان, ۱۳۹۳.
 
 
 \bibitem{Rezazadeh93hub}
-رضازاده, معصومه, امین‌طوسی, محمود, و زعفرانیه, مهدی.
-\newblock مسئله مکان‌یابی \lr{p} -هاب با ظرفیت نامتناهی در حضور صف \lr{M/G/1}.
-\newblock  در {\em چهل و پنجمین کنفرانس ریاضی ایران}, سمنان, ۱۳۹۳.
+رضازاده, معصومه, امین‌طوسی, محمود, و
+  زعفرانیه, مهدی.
+\newblock مسئله مکان‌یابی \lr{p} -هاب با ظرفیت
+  نامتناهی در حضور صف \lr{M/G/1}.
+\newblock  در {\em چهل و پنجمین کنفرانس ریاضی
+  ایران}, سمنان, ۱۳۹۳.
 
 
 \bibitem{Moghimi92MRIPCNN}
 مقیمی, مهدی و امین‌طوسی, محمود.
-\newblock تشخیص ناحیه چربی در تصاویر \lr{MRI} با استفاده از شبكه عصبی با كوپلاژ پالسی.
-\newblock  در {\em پنجمین کنفرانس ملی مهندسی برق و الکترونیک ایران}, گناباد, ۱۳۹۲.
+\newblock تشخیص ناحیه چربی در تصاویر \lr{MRI} با
+  استفاده از شبكه عصبی با كوپلاژ پالسی.
+\newblock  در {\em پنجمین کنفرانس ملی مهندسی برق و
+  الکترونیک ایران}, گناباد, ۱۳۹۲.
 
 
 \bibitem{Xepersian-IMS-1392}
 خلیقی, وفا و امین‌طوسی, محمود.
-\newblock زی‌پرشین (\lr{\XePersian}) یک بسته‌ی حروف‌چینی پارسی در \lr{\LaTeXe} (بخش دوم).
-\newblock  در {\em خبرنامه انجمن ریاضی ایران},  شماره  ۱۳۵-۱۳۶,  ص. ۴۰۹. انجمن ریاضی ایران, ۱۳۹۲.
+\newblock زی‌پرشین (\lr{\XePersian}) یک بسته‌ی
+  حروف‌چینی پارسی در \lr{\LaTeXe} (بخش دوم).
+\newblock  در {\em خبرنامه انجمن ریاضی ایران},
+  شماره  ۱۳۵-۱۳۶,  ص. ۴۰۹. انجمن ریاضی ایران,
+  ۱۳۹۲.
 \newblock بهار و تابستان ۱۳۹۲.
 
 
 \bibitem{Tirandaz92Boyer}
 تیرانداز, حامد و امین‌طوسی, محمود.
 \newblock بهینه سازی الگوریتم \lr{Boyer Moore}.
-\newblock  در {\em اولین همایش ملی کاربرد سیستم‌های هوشمند (محاسبات نرم) در علوم و صنایع}, قوچان, ۱۳۹۱.
+\newblock  در {\em اولین همایش ملی کاربرد
+  سیستم‌های هوشمند (محاسبات نرم) در علوم و
+  صنایع}, قوچان, ۱۳۹۱.
 
 
 \bibitem{Xepersian-IMS-1391}
 خلیقی, وفا و امین‌طوسی, محمود.
-\newblock زی‌پرشین (\lr{\XePersian}) یک بسته‌ی حروف‌چینی پارسی در \lr{\LaTeXe}‌ (بخش اول).
-\newblock  در {\em خبرنامه انجمن ریاضی ایران},  شماره  ۱۳۴,  صفحات  ۱۹--۲۳. انجمن ریاضی ایران, ۱۳۹۱.
+\newblock زی‌پرشین (\lr{\XePersian}) یک بسته‌ی
+  حروف‌چینی پارسی در \lr{\LaTeXe}‌ (بخش اول).
+\newblock  در {\em خبرنامه انجمن ریاضی ایران},
+  شماره  ۱۳۴,  صفحات  ۱۹--۲۳. انجمن ریاضی
+  ایران, ۱۳۹۱.
 \newblock زمستان ۱۳۹۱.
 
 
 \bibitem{Sheida90Unified}
 شیدا, مهدی, اختیار, حسام, و امین‌طوسی, محمود.
-\newblock الگوریتمی واحد برای ناحیه بندی انواع تصاویر پزشکی.
-\newblock  در {\em دومین كنفرانس ملی محاسبات نرم و فن آوری اطلاعات}, ماهشهر, ۱۳۹۰.
+\newblock الگوریتمی واحد برای ناحیه بندی انواع
+  تصاویر پزشکی.
+\newblock  در {\em دومین كنفرانس ملی محاسبات نرم و
+  فن آوری اطلاعات}, ماهشهر, ۱۳۹۰.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Amintoosi09afast}
 Amintoosi, M., Fathy, M., and Mozayani, N.
-\newblock A fast image registration approach based on sift key-points applied to super-resolution.
+\newblock A fast image registration approach based on sift key-points applied
+  to super-resolution.
 \newblock {\em Imaging Science Journal}, 60(4):185--201, 2012.
 
 \end{LTRbibitems}
@@ -314,7 +452,8 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \resetlatinfont
 \bibitem{Amintoosi09videoSR}
 Amintoosi, M., Fathy, M., and Mozayani, N.
-\newblock Video enhancement through image registration based on structural similarity.
+\newblock Video enhancement through image registration based on structural
+  similarity.
 \newblock {\em Imaging Science Journal}, 59(4):238--250, 2011.
 
 \end{LTRbibitems}
@@ -324,7 +463,8 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi2011collage}
 H.~Ekhtiyar, M.~Sheida and Amintoosi, M.
 \newblock Picture collage with genetic algorithm and stereo vision.
-\newblock {\em International Journal of Computer Science Issues}, 8(3):165--169, 2011.
+\newblock {\em International Journal of Computer Science Issues},
+  8(3):165--169, 2011.
 \newblock Indexed by \textbf{DBLP}.
 
 \end{LTRbibitems}
@@ -334,28 +474,37 @@ H.~Ekhtiyar, M.~Sheida and Amintoosi, M.
 \bibitem{Amintoosi09image}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Image registration for super-resolution using sift key-points.
-\newblock  in {\em 17th Iranian InProceedings on Electrical Engineering}, Tehran, Iran, May 2009. Iran Univ. of Science and Technology.
+\newblock  in {\em 17th Iranian InProceedings on Electrical Engineering},
+  Tehran, Iran, May 2009. Iran Univ. of Science and Technology.
 
 \end{LTRbibitems}
 
 
 \bibitem{Amintoosi88amikhtan}
 امین‌طوسی, م., فتحی, م., و مزینی, ن.
-\newblock آمیختن بدون درزِ تصاویر، مبتنی بر همرنگ‌سازی چند بانده و تبدیل موجک.
-\newblock  در {\em پانزدهمین کنفرانس ملی سالانه انجمن کامپیوتر ایران}, تهران، ایران, ۱۳۸۸. مرکز توسعه فناوری نیرو.
+\newblock آمیختن بدون درزِ تصاویر، مبتنی بر
+  همرنگ‌سازی چند بانده و تبدیل موجک.
+\newblock  در {\em پانزدهمین کنفرانس ملی سالانه
+  انجمن کامپیوتر ایران}, تهران، ایران, ۱۳۸۸.
+  مرکز توسعه فناوری نیرو.
 
 
 \bibitem{Amintoosi88sabtetasvir}
 امین‌طوسی, م., فتحی, م., و مزینی, ن.
-\newblock ثبت تصویر مبتنی بر شباهت ساختاری تصاویر با کاربرد در وضوح برتر.
-\newblock  در {\em هفدهمین کنفرانس مهندسی برق ایران},  صفحات  ۴۰۱--۴۰۶, تهران، ایران, اردیبهشت ۱۳۸۸. دانشگاه علم و صنعت ایران.
+\newblock ثبت تصویر مبتنی بر شباهت ساختاری
+  تصاویر با کاربرد در وضوح برتر.
+\newblock  در {\em هفدهمین کنفرانس مهندسی برق
+  ایران},  صفحات  ۴۰۱--۴۰۶, تهران، ایران,
+  اردیبهشت ۱۳۸۸. دانشگاه علم و صنعت ایران.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Amintoosi09precise}
 Amintoosi, M., Fathy, M., and Mozayani, N.
-\newblock Precise image registration with structural similarity error measurement applied to super-resolution.
-\newblock {\em {EURASIP} {J}ournal on {A}dvances in {S}ignal {P}rocessing}, 2009:7 pages, 2009.
+\newblock Precise image registration with structural similarity error
+  measurement applied to super-resolution.
+\newblock {\em {EURASIP} {J}ournal on {A}dvances in {S}ignal {P}rocessing},
+  2009:7 pages, 2009.
 \newblock {A}rticle ID 305479, Indexed by \textbf{ACM} and \textbf{DBLP}.
 
 \end{LTRbibitems}
@@ -365,8 +514,11 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi09regional}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Regional varying image super-resolution.
-\newblock  in {\em IEEE International Joint InProceedings on Computational Sciences and Optimization},  vol.~1,  pp. 913--917, Sanya, China, April 23-26 2009.
-\newblock Indexed by \textbf{IEEE Computer Society}, \textbf{ACM} and \textbf{DBLP}.
+\newblock  in {\em IEEE International Joint InProceedings on Computational
+  Sciences and Optimization},  vol.~1,  pp. 913--917, Sanya, China, April 23-26
+  2009.
+\newblock Indexed by \textbf{IEEE Computer Society}, \textbf{ACM} and
+  \textbf{DBLP}.
 
 \end{LTRbibitems}
 
@@ -375,7 +527,8 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi09video}
 Amintoosi, M., Fathy, M., and Mozayani, N.
 \newblock Video resolution enhancement in the presence of moving objects.
-\newblock  in {\em International InProceedings on Image Processing, Computer Vision, and Pattern Recognition},  pp. 456--460, Las Vegas, USA, July 2009.
+\newblock  in {\em International InProceedings on Image Processing, Computer
+  Vision, and Pattern Recognition},  pp. 456--460, Las Vegas, USA, July 2009.
 \newblock Indexed by \textbf{DBLP}.
 
 \end{LTRbibitems}
@@ -384,20 +537,27 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \bibitem{Amintoosi87afzayesh}
 امین‌طوسی, م., فتحی, م., و مزینی, ن.
 \newblock افزایش وضوح ناحیه‌ای.
-\newblock  در {\em چهاردهمین کنفرانس ملی سالانه انجمن کامپیوتر ایران}, تهران، ایران, اسفند ۱۳۸۷. دانشگاه امیرکبیر.
+\newblock  در {\em چهاردهمین کنفرانس ملی سالانه
+  انجمن کامپیوتر ایران}, تهران، ایران, اسفند
+  ۱۳۸۷. دانشگاه امیرکبیر.
 
 
 \bibitem{Amintoosi08using}
 امین‌طوسی, م. و دیگران.
-\newblock استفاده از تجزیه ماتریس در وضوح برتر برای مواجهه با اشیاء متحرک.
-\newblock  در {\em پنجمین کنفرانس پردازش تصویر و بینائی ماشین},  صفحات  ۱۷۲--۱۷۸, تبریز، ایران, ۱۳۸۷. دانشگاه تبریز.
+\newblock استفاده از تجزیه ماتریس در وضوح برتر
+  برای مواجهه با اشیاء متحرک.
+\newblock  در {\em پنجمین کنفرانس پردازش تصویر و
+  بینائی ماشین},  صفحات  ۱۷۲--۱۷۸, تبریز،
+  ایران, ۱۳۸۷. دانشگاه تبریز.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Amintoosi08reconstruction}
 Amintoosi, M., Fathy, M., and Mozayani, N.
-\newblock Reconstruction+synthesis: A hybrid method for multi-frame super-resolution.
-\newblock  in {\em (MVIP08) 2008 Iranian InProceedings on Machine Vision and Image Processing},  pp. 179--184, Tabriz, Iran, 2008. Tabriz University.
+\newblock Reconstruction+synthesis: A hybrid method for multi-frame
+  super-resolution.
+\newblock  in {\em (MVIP08) 2008 Iranian InProceedings on Machine Vision and
+  Image Processing},  pp. 179--184, Tabriz, Iran, 2008. Tabriz University.
 
 \end{LTRbibitems}
 
@@ -405,8 +565,11 @@ Amintoosi, M., Fathy, M., and Mozayani, N.
 \resetlatinfont
 \bibitem{Fathy08outlier}
 Fathy, M., Mozayani, N., and Amintoosi, M.
-\newblock Outlier removal for super-resolution problem using {QR-D}ecomposition.
-\newblock  in {\em Proceedings of the International InProceedings on Image Processing, Computer Vision, and Pattern Recognition},  pp. 271--277, USA, July 14-17 2008.
+\newblock Outlier removal for super-resolution problem using
+  {QR-D}ecomposition.
+\newblock  in {\em Proceedings of the International InProceedings on Image
+  Processing, Computer Vision, and Pattern Recognition},  pp. 271--277, USA,
+  July 14-17 2008.
 \newblock Indexed by \textbf{DBLP}.
 
 \end{LTRbibitems}
@@ -415,8 +578,10 @@ Fathy, M., Mozayani, N., and Amintoosi, M.
 \resetlatinfont
 \bibitem{Amintoosi07icics}
 Amintoosi, M., Farbiz, F., and Fathy, M.
-\newblock A {QR D}ecomposition based mixture model algorithm for background modeling.
-\newblock  in {\em ICICS2007, Sixth International InProceedings on Information, Communication and Signal Processing},  pp. 1--5, Singapore, December 2007.
+\newblock A {QR D}ecomposition based mixture model algorithm for background
+  modeling.
+\newblock  in {\em ICICS2007, Sixth International InProceedings on Information,
+  Communication and Signal Processing},  pp. 1--5, Singapore, December 2007.
 \newblock Indexed by \textbf{IEEE} and \textbf{SCOPUS}.
 
 \end{LTRbibitems}
@@ -424,21 +589,29 @@ Amintoosi, M., Farbiz, F., and Fathy, M.
 
 \bibitem{Fathy07TTC7a}
 فتحی, م. و دیگران.
-\newblock مروری بر تحقیقات انجام شده در زمینه ی پیشگیری از تصادف.
-\newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل و ترافیك ایران}, تهران، ایران, اسفند ۱۳۸۵. سازمان حمل و نقل و ترافیك تهران.
+\newblock مروری بر تحقیقات انجام شده در زمینه ی
+  پیشگیری از تصادف.
+\newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل
+  و ترافیك ایران}, تهران، ایران, اسفند ۱۳۸۵.
+  سازمان حمل و نقل و ترافیك تهران.
 
 
 \bibitem{Fathy07TTC7b}
 فتحی, م. و دیگران.
-\newblock مروری بر کاربردهای بینائی ماشین و سیستمهای پیاده سازی شده در حمل ونقل و ترافیک.
-\newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل و ترافیك ایران}, تهران, اسفند ۱۳۸۵. سازمان حمل و نقل و ترافیك تهران.
+\newblock مروری بر کاربردهای بینائی ماشین و
+  سیستمهای پیاده سازی شده در حمل ونقل و
+  ترافیک.
+\newblock  در {\em هفتمین كنفرانس مهندسی حمل و نقل
+  و ترافیك ایران}, تهران, اسفند ۱۳۸۵. سازمان
+  حمل و نقل و ترافیك تهران.
 
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Amintoosi07icassp}
 Amintoosi, M., Farbiz, F., Fathy, M., Analoui, M., and Mozayani, N.
 \newblock {QR-D}ecomposition-based {A}lgorithm for {B}ackground {S}ubtraction.
-\newblock  in {\em ICASSP2007, IEEE International InProceedings on Acoustics, Speech, and Signal Processing},  pp. 1093--1096, USA, 2007.
+\newblock  in {\em ICASSP2007, IEEE International InProceedings on Acoustics,
+  Speech, and Signal Processing},  pp. 1093--1096, USA, 2007.
 \newblock Indexed by \textbf{IEEE}, \textbf{SCOPUS} and \textbf{DBLP}.
 
 \end{LTRbibitems}
@@ -447,9 +620,12 @@ Amintoosi, M., Farbiz, F., Fathy, M., Analoui, M., and Mozayani, N.
 \resetlatinfont
 \bibitem{Amintoosi07afishschool}
 Amintoosi, M., Fathy, M., Mozayani, N., and Rahmani, A.T.
-\newblock A fish school clustering algorithm: Applied to student sectioning problem.
-\newblock {\em Dynamics of Continuous Discrete \& Impulse Systems, series B: Applications and Algorithms}, 2:696--699, December 2007.
-\newblock Post Proceeding of LSMS2007, Life System Modeling and Simulation 2007, China.
+\newblock A fish school clustering algorithm: Applied to student sectioning
+  problem.
+\newblock {\em Dynamics of Continuous Discrete \& Impulse Systems, series B:
+  Applications and Algorithms}, 2:696--699, December 2007.
+\newblock Post Proceeding of LSMS2007, Life System Modeling and Simulation
+  2007, China.
 
 \end{LTRbibitems}
 
@@ -467,7 +643,8 @@ Amintoosi, M., SadoghiYazdi, H., M.Fathy, and Monsefi, R.
 \resetlatinfont
 \bibitem{Amiri07modified}
 Amiri, A., Fathy, M., Amintoosi, M., and SadoghiYazdi, H.
-\newblock Modified quantized input variable step size {LMS, QX-VSS LMS} algorithm applied to signal prediction.
+\newblock Modified quantized input variable step size {LMS, QX-VSS LMS}
+  algorithm applied to signal prediction.
 \newblock  in {\em Proceeidings of 4th IEEE GCC InProceedings}, November 2007.
 
 \end{LTRbibitems}
@@ -477,7 +654,9 @@ Amiri, A., Fathy, M., Amintoosi, M., and SadoghiYazdi, H.
 \bibitem{AmiriFAS07}
 Amiri, A., Fathy, M., M.Amintoosi, and Sadoghi, H.
 \newblock A new quantized input {RLS,QI-RLS}, algorithm.
-\newblock  in Gervasi, Osvaldo and Gavrilova, Marina~L.,  eds. , {\em ICCSA (3)},  vol. 4707 of {\em Lecture Notes in Computer Science},  pp. 495--506. Springer, 2007.
+\newblock  in Gervasi, Osvaldo and Gavrilova, Marina~L.,  eds. , {\em ICCSA
+  (3)},  vol. 4707 of {\em Lecture Notes in Computer Science},  pp. 495--506.
+  Springer, 2007.
 \newblock Indexed by \textbf{DBLP} and \textbf{SCOPUS}.
 
 \end{LTRbibitems}
@@ -486,22 +665,33 @@ Amiri, A., Fathy, M., M.Amintoosi, and Sadoghi, H.
 \resetlatinfont
 \bibitem{Fathy07abackground}
 Fathy, M., Analoui, M., Mozayani, N., Amintoosi, M., and Farbiz, F.
-\newblock A background model initialization algorithm based on {QR-D}ecomposition.
-\newblock  in {\em 4th Iranian InProceedings on Machine Vision and Image Processing}, Mashhad, Iran, Feb 2007.
+\newblock A background model initialization algorithm based on
+  {QR-D}ecomposition.
+\newblock  in {\em 4th Iranian InProceedings on Machine Vision and Image
+  Processing}, Mashhad, Iran, Feb 2007.
 
 \end{LTRbibitems}
 
 
 \bibitem{Sadoghi06anew}
-صدوقی‌یزدی, ه\char"200D., امین‌طوسی, م., و فتحی, م.
-\newblock روشِ جدیدِ پشته‌سازیِ مكانی-زمانیِ حركت در تصاویر ویدیویی و استفاده از آن در شناسایی حالت چهره.
-\newblock  در {\em اولین کنفرانس ملی مهندسی برق}, گناباد، ایران, ۱۳۸۵. دانشگاه آزاد اسلامی واحد گناباد.
+صدوقی‌یزدی, ه\char"200D., امین‌طوسی, م., و فتحی,
+  م.
+\newblock روشِ جدیدِ پشته‌سازیِ مكانی-زمانیِ
+  حركت در تصاویر ویدیویی و استفاده از آن در
+  شناسایی حالت چهره.
+\newblock  در {\em اولین کنفرانس ملی مهندسی برق},
+  گناباد، ایران, ۱۳۸۵. دانشگاه آزاد اسلامی
+  واحد گناباد.
 
 
 \bibitem{Sadoghi07facial}
-صدوقی‌یزدی, ه\char"200D., امین‌طوسی, م., و فتحی, م.
-\newblock شناسایی حالت چهره با استفاده از پایگاه دادهٔ مكانی- زمانی \lr{{QIM}} و \lr{{ITMI}}.
-\newblock  در {\em چهارمین کنفرانس بینائی ماشین و پردازش تصویر ایران}, مشهد، ایران, بهمن ۱۳۸۵. دانشگاه فردوسی مشهد.
+صدوقی‌یزدی, ه\char"200D., امین‌طوسی, م., و فتحی,
+  م.
+\newblock شناسایی حالت چهره با استفاده از
+  پایگاه دادهٔ مكانی- زمانی \lr{{QIM}} و \lr{{ITMI}}.
+\newblock  در {\em چهارمین کنفرانس بینائی ماشین و
+  پردازش تصویر ایران}, مشهد، ایران, بهمن
+  ۱۳۸۵. دانشگاه فردوسی مشهد.
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -518,7 +708,9 @@ Amintoosi, M. and Haddadnnia, J.
 \bibitem{Amintoosi04using}
 Amintoosi, M., Monsefi, R., and Haddadnia, J.
 \newblock Using pattern matching for tiling and packing problems.
-\newblock  in {\em Fifth International InProceedings on Computer Sciences}, Modeling, Computation and Optimization in Information Systems and Management Sciences,  pp. 97--104, Metz,France, July 2004. Hermes Science Publishing.
+\newblock  in {\em Fifth International InProceedings on Computer Sciences},
+  Modeling, Computation and Optimization in Information Systems and Management
+  Sciences,  pp. 97--104, Metz,France, July 2004. Hermes Science Publishing.
 
 \end{LTRbibitems}
 
@@ -527,7 +719,8 @@ Amintoosi, M., Monsefi, R., and Haddadnia, J.
 \bibitem{Amintoosi04fuzzy}
 Amintoosi, M., Yazdi, H.~Sadoghi, and Haddadnnia, J.
 \newblock Fuzzy student sectioning.
-\newblock  in {\em PATAT04: Practice and Theory of Automated Timetabling},  pp. 421--424, USA, Aug 2004.
+\newblock  in {\em PATAT04: Practice and Theory of Automated Timetabling},  pp.
+  421--424, USA, Aug 2004.
 
 \end{LTRbibitems}
 
@@ -535,8 +728,10 @@ Amintoosi, M., Yazdi, H.~Sadoghi, and Haddadnnia, J.
 \resetlatinfont
 \bibitem{Monsefi02agenetic}
 Monsefi, R. and Amintoosi, M.
-\newblock A genetic-neuro algorithm for tiling problems with rotation and reflection of figures.
-\newblock {\em Iranian Journal of Science and Technology, Transaction B}, 26(B4):693--700, December 2002.
+\newblock A genetic-neuro algorithm for tiling problems with rotation and
+  reflection of figures.
+\newblock {\em Iranian Journal of Science and Technology, Transaction B},
+  26(B4):693--700, December 2002.
 \newblock Indexed by \textbf{{ACM}}.
 
 \end{LTRbibitems}
@@ -544,20 +739,29 @@ Monsefi, R. and Amintoosi, M.
 
 \bibitem{Amintoosi04optimum}
 امین‌طوسی, م. و صدوقی‌یزدی, ه\char"200D.
-\newblock کلاسه‌بندی فازی بهینه دانشجویان با استفاده از یک تابع فازی در حل مسئله برنامه‌ریزی ژنتیکی دروس هفتگی دانشگاه.
-\newblock  در {\em نهمین كنفرانس سالانه انجمن كامپیوتر ایران},  صفحات  345--352, تهران، ایران, اسفند ۱۳۸۲. دانشگاه صنعتی شریف.
+\newblock کلاسه‌بندی فازی بهینه دانشجویان با
+  استفاده از یک تابع فازی در حل مسئله
+  برنامه‌ریزی ژنتیکی دروس هفتگی دانشگاه.
+\newblock  در {\em نهمین كنفرانس سالانه انجمن
+  كامپیوتر ایران},  صفحات  345--352, تهران، ایران,
+  اسفند ۱۳۸۲. دانشگاه صنعتی شریف.
 
 
 \bibitem{امین‌طوسی۷۹مروری}
 امین‌طوسی, م.
 \newblock مروری بر مسائل \lr{NP-Hard} و \lr{NP-Complete}.
-\newblock  در {\em مجله‌ صفر و یک},  صفحات  ۲۵--۳۳. گروه کامپیوتر، دانشگاه فردوسی مشهد, مشهد، ایران, بهار ۱۳۷۹.
+\newblock  در {\em مجله‌ صفر و یک},  صفحات  ۲۵--۳۳.
+  گروه کامپیوتر، دانشگاه فردوسی مشهد, مشهد،
+  ایران, بهار ۱۳۷۹.
 \newblock شماره سوم.
 
 
 \bibitem{Monsefi00agenetic}
 منصفی, ر. و امین‌طوسی, م.
-\newblock جورچینی قطعات راست گوشه با استفاده از شبكه های عصبی و الگوریتم ژنتیك.
-\newblock  در {\em پنجمین کنفرانس سالانه انجمن کامپیوتر ایران},  صفحات  ۲۹۸--۳۰۴, تهران، ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
+\newblock جورچینی قطعات راست گوشه با استفاده از
+  شبكه های عصبی و الگوریتم ژنتیك.
+\newblock  در {\em پنجمین کنفرانس سالانه انجمن
+  کامپیوتر ایران},  صفحات  ۲۹۸--۳۰۴, تهران،
+  ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
 
 \end{thebibliography}
