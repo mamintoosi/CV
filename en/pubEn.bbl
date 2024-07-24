@@ -4,6 +4,38 @@
 \begin{thebibliography}{10}
 
 
+\bibitem{Amintoosi1403aimc55-SeamCarving}
+Amintoosi, Mahmood.
+\newblock Seam carving and viterbi algorithm: A pedagogical exploration of
+  dynamic programming.
+\newblock In {\em $55^{th}$ Annual Iranian Mathematics Conference}, Ferdowsi
+  University of Mashhad, 2024.
+\newblock Accepted.
+
+
+\bibitem{Amintoosi2023FS-bio-math}
+Amintoosi, Mahmood and Kohan-Baghkheirati, Eisa.
+\newblock Feature selection for anti-cancer plant recommendation.
+\newblock In {\em The 2nd International and 4th National Conference on
+  Biomathematics}, pages 470--475, Babolsar, Iran, Feb 2023. University of
+  Mazandaran.
+
+
+\bibitem{Amintoosi2023GFS-COAM}
+Amintoosi, Mahmood and Kohan-Baghkheirati, Eisa.
+\newblock Graph feature selection for anti-cancer plant recommendation.
+\newblock {\em Control and Optimization in Applied Mathematics}, 8(2):1--15,
+  2023.
+
+
+\bibitem{Amintoosi2023Challenges}
+Amintoosi, Mahmood.
+\newblock Challenges and requirements of persian language support in citation
+  software.
+\newblock {\em Journal of Studies in Library and Information Science}, 15(3),
+  2023.
+
+
 \bibitem{Farhadi2022}
 Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
 \newblock Prediction of co and pm10 in cold and warm seasons and survey of the
