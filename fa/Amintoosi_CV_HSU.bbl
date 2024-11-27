@@ -5,12 +5,44 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Nemati2024dsas3}
+Nemati, Mehdi and Amintoosi, Mahmood.
+\newblock Enhancing text extraction from scanned medical documents using large
+  language models.
+\newblock  in {\em Third Seminar on Data Science and its Applications},
+  Ferdowsi University of Mashhad, 2024.
+\newblock Accepted.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Amintoosi1403aimc55-SeamCarving}
+Amintoosi, Mahmood.
+\newblock Seam carving and viterbi algorithm: A pedagogical exploration of
+  dynamic programming.
+\newblock  in {\em $55^{th}$ Annual Iranian Mathematics Conference},  pp.
+  12--16, Ferdowsi University of Mashhad, 2024.
+
+\end{LTRbibitems}
+
+
+\bibitem{Amintoosi1403aimc55-GSL}
+امین‌طوسی, محمود.
+\newblock پیش‌بینی ترافیک با شبکه‌های پیچشی
+  گراف مبتنی بر یادگیری.
+\newblock  در {\em پنجاه و پنجمین کنفرانس ریاضی
+  ایران},  صفحات  145--148, دانشگاه فردوسی مشهد,
+  ۱۴۰۳.
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Amintoosi2023Challenges}
 Amintoosi, Mahmood.
 \newblock Challenges and requirements of persian language support in citation
   software.
-\newblock {\em Journal of Studies in Library and Information Science},  p. To
-  be published (In Persian), 2024.
+\newblock {\em Journal of Studies in Library and Information Science},
+  15(3):109--128, 2023.
 
 \end{LTRbibitems}
 
