@@ -1,0 +1,31 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% arara: xelatex
+% arara: bibtex
+% arara: xelatex
+\documentclass[11pt,a4paper]{article}
+% M.Amintoosi
+% ORCID: 0000-0001-9640-6475  
+\usepackage[numbers]{natbib}%
+
+\usepackage{xepersian}
+%\settextfont[BoldFont={IRLotusICEE_Bold.ttf}, BoldItalicFont={IRLotusICEE_BoldIranic.ttf}, ItalicFont={IRLotusICEE_Iranic.ttf},Scale=1.2]{IRLotusICEE.ttf}%{IRZar.ttf}
+\settextfont[Scale=1.2]{IRLotusICEE}%{IRZar.ttf}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%{تألیفات}
+%\newpage
+%\section{تألیفات}
+\def\refname{
+{\Large تألیفات} 
+%تالیفات
+ (به ترتیب نزولی سال نشر)
+ % آمده اند.
+ }
+\nocite{*}
+%\renewcommand\refname{تالیفات}
+\bibliographystyle{unsrt-fa}%{asa-fa}%
+\bibliography{M_Amintoosi_pubs_year_order}
+
+\end{document}
