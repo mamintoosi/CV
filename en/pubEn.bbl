@@ -4,13 +4,28 @@
 \begin{thebibliography}{10}
 
 
+\bibitem{}
+Zolfaghari, Ghasem, Nezamparvar, Sara, and Amintoosi, Mahmood.
+\newblock Modeling dust particles from stack with artificial neural network and
+  studying electrofilter performance: a case study of zaveh cement factory.
+\newblock {\em Journal of Natural Environment}, pages~--, 2025.
+\newblock (In Persian).
+
+
 \bibitem{Amintoosi1403aimc55-SeamCarving}
 Amintoosi, Mahmood.
 \newblock Seam carving and viterbi algorithm: A pedagogical exploration of
   dynamic programming.
-\newblock In {\em $55^{th}$ Annual Iranian Mathematics Conference}, Ferdowsi
-  University of Mashhad, 2024.
-\newblock Accepted.
+\newblock In {\em $55^{th}$ Annual Iranian Mathematics Conference}, pages
+  12--16, Ferdowsi University of Mashhad, 2024.
+
+
+\bibitem{Nemati2024dsas3}
+Nemati, Mehdi and Amintoosi, Mahmood.
+\newblock Enhancing text extraction from scanned medical documents using large
+  language models.
+\newblock In {\em Third Seminar on Data Science and its Applications}, page~58,
+  Ferdowsi University of Mashhad, 2024.
 
 
 \bibitem{Amintoosi2023FS-bio-math}

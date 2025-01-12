@@ -11,8 +11,58 @@
 \newblock پیش‌بینی ترافیک با شبکه‌های پیچشی
   گراف مبتنی بر یادگیری.
 \newblock  در {\em پنجاه و پنجمین کنفرانس ریاضی
-  ایران}, دانشگاه فردوسی مشهد, ۱۴۰۳.
-\newblock پذیرفته شده.
+  ایران},  صفحات  145--148, دانشگاه فردوسی مشهد,
+  ۱۴۰۳.
+\newblock \lr{Urban Traffic Prediction with Learning Based Graph Convolutional
+  Networks}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Jlogir1403dsas3}
+\Persiantext{
+جلوگیرباغستان, امیر, امین‌طوسی, محمود, و
+  آرشی, محمد.
+\newblock شبکه‌های عصبی گراف در پیش‌گویی خواص
+  مولکولی.
+\newblock  در {\em سومین سمینار تخصصی علم داده‌ها
+  و کاربردهای آن},  صفحه ~37, دانشگاه فردوسی
+  مشهد, ۱۴۰۳.
+\newblock \lr{Graph Neural Networks for Molecular Property Prediction}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Bagherpour1403dsas3}
+\Persiantext{
+مهرباقرپور, هدی, امین‌طوسی, محمود, و آرشی,
+  محمد.
+\newblock پیش‌بینی ترافیک شهری با بهره‌گیری از
+  شبکه‌های پیچشی گراف.
+\newblock  در {\em سومین سمینار تخصصی علم داده‌ها
+  و کاربردهای آن},  صفحه ~25, دانشگاه فردوسی
+  مشهد, ۱۴۰۳.
+\newblock \lr{Urban Traffic Prediction Using Graph Convolutional Networks}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Amintoosi1403dsas3}
+\Persiantext{
+امین‌طوسی, محمود.
+\newblock بهبود پیش‌بینی قیمت مسکن با بازنمایی
+  اطلاعات مکانی مبتنی بر قدم‌زنی تصادفی.
+\newblock  در {\em سومین سمینار تخصصی علم داده‌ها
+  و کاربردهای آن},  صفحه ~20, دانشگاه فردوسی
+  مشهد, ۱۴۰۳.
+\newblock \lr{Improving Housing Price Prediction with Spatial Information
+  Representation Based on Random Walk}.
 }
 
 \end{RTLbibitems}
@@ -673,6 +723,23 @@
   ایران, بهمن ۱۳۷۸. دانشگاه شهید بهشتی.
 \newblock \lr{Tiling Problem using Neural Networks and Genetic
   Algorithm(2000)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
+\bibitem{Fatehinia1403dsas3}
+\Persiantext{
+فاتحی‌نیا, محمدرضا, امین‌طوسی, محمود, و
+  سجادی, سیدمسیح.
+\newblock پیش‌بینی نرخ کلیک در صنعت تبلیغات
+  آنلاین با داده‌های واقعی و چالش‌های آن.
+\newblock  در {\em سومین سمینار تخصصی علم داده‌ها
+  و کاربردهای آن},  صفحه ~26, دانشگاه فردوسی
+  مشهد, 1403.
+\newblock \lr{Click-Through Rate Prediction in Online Advertising with Real
+  Data and Its Challenges}.
 }
 
 \end{RTLbibitems}
