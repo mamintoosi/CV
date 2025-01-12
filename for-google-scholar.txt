@@ -1,0 +1,62 @@
+@InProceedings{Amintoosi2024dsas3,
+  Title                    = {Improving Housing Price Prediction with Spatial Information Representation Based on Random Walk},
+  Author                   = {Mahmood Amintoosi},
+  Booktitle                = {Third Seminar on Data Science and its Applications},
+  Year                     = {2024},
+  Address                  = {Ferdowsi University of Mashhad},
+  Date                     = {2024-06},
+  Language                 = {persian},
+  pages       = {20},
+  Note                     = {(In Persian)},
+  key                      = {140305}
+}
+
+@InProceedings{Nemati2024dsas3,
+  Title                    = {Enhancing Text Extraction from Scanned Medical Documents Using Large Language Models},
+  Author                   = {Mehdi Nemati and Mahmood Amintoosi},
+  Booktitle                = {Third Seminar on Data Science and its Applications},
+  Year                     = {2024},
+  Address                  = {Ferdowsi University of Mashhad},
+  Date                     = {2024-06},      
+ pages = {58},   
+  key                      = {140305}
+}
+
+@InProceedings{Fatehinia2024dsas3,
+  Title                    = {Click-Through Rate Prediction in Online Advertising with Real Data and Its Challenges},
+  Author                   = {Mohammadreza Fatehinia and Mahmood Amintoosi and Seyed Masih Sajadi},
+  Booktitle                = {Third Seminar on Data Science and its Applications},
+  Year                     = {2024},
+  Address                  = {Ferdowsi University of Mashhad},
+  Date                     = {2024-06},
+   pages = {26},
+  Language                 = {persian},
+  Note                     = {(In Persian)},
+  key                      = {140305}
+}
+
+@InProceedings{Bagherpour2024dsas3,
+  Title                    = {Urban Traffic Prediction Using Graph Convolutional Networks},
+  Author                   = {Hoda Mehrbagherpour and Mahmood Amintoosi and Mohammad Arashi},
+  Booktitle                = {Third Seminar on Data Science and its Applications},
+  Year                     = {2024},
+  Address                  = {Ferdowsi University of Mashhad},
+  Date                     = {2024-06},
+  pages = {25},
+  Language                 = {persian},
+  Note                     = {(In Persian)},
+  key                      = {140305}
+}
+
+@InProceedings{Jlogir2024dsas3,
+  Title                    = {Graph Neural Networks for Molecular Property Prediction},
+  Author                   = {Amir Jalogirbaghestan and Mahmood Amintoosi and Mohammad Arashi},
+  Booktitle                = {Third Seminar on Data Science and its Applications},
+  Year                     = {2024},
+  Address                  = {Ferdowsi University of Mashhad},
+  Date                     = {2024-06},
+  pages = {37},
+  Language                 = {persian},
+  Note                     = {(In Persian)},
+  key                      = {140305}
+}
