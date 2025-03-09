@@ -4,13 +4,24 @@
 \begin{thebibliography}{10}
 
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Zolfaghari2025Modeling-dust}
+Zolfaghari, Ghasem, Nezamparvar, Sara, and Amintoosi, Mahmood.
+\newblock Modeling dust particles from stack with artificial neural network and
+  studying electrofilter performance: a case study of zaveh cement factory.
+\newblock {\em Journal of Natural Environment}, Accepted:--, 2025.
+
+\end{LTRbibitems}
+
+
 \bibitem{Amintoosi1403dsas3}
 امین‌طوسی, محمود.
 \newblock بهبود پیش‌بینی قیمت مسکن با بازنمایی
   اطلاعات مکانی مبتنی بر قدم‌زنی تصادفی.
 \newblock  در {\em سومین سمینار تخصصی علم داده‌ها
-  و کاربردهای آن}, دانشگاه فردوسی مشهد, ۱۴۰۳.
-\newblock پذیرش شده.
+  و کاربردهای آن},  ص.~20, دانشگاه فردوسی مشهد,
+  ۱۴۰۳.
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -18,9 +29,8 @@
 Nemati, Mehdi and Amintoosi, Mahmood.
 \newblock Enhancing text extraction from scanned medical documents using large
   language models.
-\newblock  in {\em Third Seminar on Data Science and its Applications},
+\newblock  in {\em Third Seminar on Data Science and its Applications},  p.~58,
   Ferdowsi University of Mashhad, 2024.
-\newblock Accepted.
 
 \end{LTRbibitems}
 
@@ -31,8 +41,8 @@ Nemati, Mehdi and Amintoosi, Mahmood.
 \newblock پیش‌بینی نرخ کلیک در صنعت تبلیغات
   آنلاین با داده‌های واقعی و چالش‌های آن.
 \newblock  در {\em سومین سمینار تخصصی علم داده‌ها
-  و کاربردهای آن}, دانشگاه فردوسی مشهد, ۱۴۰۳.
-\newblock پذیرش شده.
+  و کاربردهای آن},  ص.~26, دانشگاه فردوسی مشهد,
+  1403.
 
 
 \bibitem{Bagherpour1403dsas3}
@@ -41,8 +51,8 @@ Nemati, Mehdi and Amintoosi, Mahmood.
 \newblock پیش‌بینی ترافیک شهری با بهره‌گیری از
   شبکه‌های پیچشی گراف.
 \newblock  در {\em سومین سمینار تخصصی علم داده‌ها
-  و کاربردهای آن}, دانشگاه فردوسی مشهد, ۱۴۰۳.
-\newblock پذیرش شده.
+  و کاربردهای آن},  ص.~25, دانشگاه فردوسی مشهد,
+  ۱۴۰۳.
 
 \begin{LTRbibitems}
 \resetlatinfont
@@ -62,8 +72,8 @@ Amintoosi, Mahmood.
 \newblock شبکه‌های عصبی گراف در پیش‌گویی خواص
   مولکولی.
 \newblock  در {\em سومین سمینار تخصصی علم داده‌ها
-  و کاربردهای آن}, دانشگاه فردوسی مشهد, ۱۴۰۳.
-\newblock پذیرش شده.
+  و کاربردهای آن},  ص.~37, دانشگاه فردوسی مشهد,
+  ۱۴۰۳.
 
 
 \bibitem{Amintoosi1403aimc55-GSL}
@@ -234,7 +244,7 @@ Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
   Mahmood.
 \newblock Prediction of the air quality by artificial neural network using
   instability indices in the city of tehran-iran.
-\newblock {\em AUT Journal of Civil Engineering}, 4(4):9--9, 2020.
+\newblock {\em AUT Journal of Civil Engineering}, 4(4):517--528, 2020.
 
 \end{LTRbibitems}
 
@@ -283,6 +293,8 @@ Farhadi, Razieh, Hadavifar, Mojtaba, Moeinaddini, Mazaher, and Amintoosi,
   کارخانه سیمان سبزوار.
 \newblock {\em فصلنامه پژوهش در بهداشت محیط},
   5(1):234--245, ۱۳۹۸.
+\newblock Estimation of Artificial Neural Networks (MLP and RBF) Accuracy in
+  Anticipation of the Dust of the Sabzevar Cement Factory.
 
 
 \bibitem{mattingJSDP98}
@@ -320,6 +332,16 @@ Farhadi, R., Hadavifar, M., Moeinaddini, M., and Amintoosi, M.
   تصویر.
 \newblock  در {\em دومین سمینار کنترل و
   بهینه‌سازی}, دانشگاه صنعتی شاهرود, ۱۳۹۷.
+
+
+\bibitem{Karimi97Co}
+کریمی, مژگان, امین‌طوسی, محمود, و مبارکه,
+  مجید~ایرانپور.
+\newblock مقایسه خوشه‌بندی تمایزی و کا-میانگین
+  برای هم‌قطعه‌بندی تصاویر.
+\newblock  در {\em سومین کنفرانس آخرین دستاوردهای
+  علمی در حوزه مهندسی کامپیوتر پردازش نرم و
+  تکنولوژی های نوین پردازشی}, بروجن, ۱۳۹۷.
 
 
 \bibitem{Nemati96GA}
