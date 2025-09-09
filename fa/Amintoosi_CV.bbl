@@ -3,14 +3,14 @@
 \providecommand{\noopsort}[1]{}
 \begin{thebibliography}{10}
 
-
 \begin{LTRbibitems}
 \resetlatinfont
 \bibitem{Zolfaghari2025Modeling-dust}
 Zolfaghari, Ghasem, Nezamparvar, Sara, and Amintoosi, Mahmood.
 \newblock Modeling dust particles from stack with artificial neural network and
   studying electrofilter performance: a case study of zaveh cement factory.
-\newblock {\em Journal of Natural Environment}, Accepted:--, 2025.
+\newblock {\em Journal of Natural Environment}, 78(Special Issue on Monitoring
+  and Management of Natural Environmental Pollutants):185--199, 2025.
 
 \end{LTRbibitems}
 
@@ -427,15 +427,6 @@ Hokmabadi, Somayye, Amintoosi, Mahmood, and Partanian, Mohammad~Ali.
   دانشگاه شهرکرد, ۱۳۹۶.
 
 
-\bibitem{Amintoosi94spectral}
-امین‌طوسی, محمود و فیاض, طیبه.
-\newblock محاسبه پارامترهای خوشه‌بندی طیفی در
-  تصاویر \lr{MRI} با الگوریتم ژنتیک.
-\newblock  در {\em هشتمین کنفرانس بین‌المللی
-  انجمن ایرانی تحقیق در عملیات}, دانشگاه
-  فردوسی مشهد, ۱۳۹۴.
-
-
 \bibitem{Farhadi95ANN}
 فرهادی, راضیه, فر, مجتبي~هادوي, الدینی,
   مظاهر~معین, و امین‌طوسی, محمود.
@@ -445,6 +436,25 @@ Hokmabadi, Somayye, Amintoosi, Mahmood, and Partanian, Mohammad~Ali.
 \newblock  در {\em سومین همایش یافته های نوین در
   محیط زیست و اکوسیستم های کشاورزی}, دانشگاه
   تهران, ۱۳۹۵.
+
+
+\bibitem{Amintoosi94spectral}
+امین‌طوسی, محمود و فیاض, طیبه.
+\newblock محاسبه پارامترهای خوشه‌بندی طیفی در
+  تصاویر \lr{MRI} با الگوریتم ژنتیک.
+\newblock  در {\em هشتمین کنفرانس بین‌المللی
+  انجمن ایرانی تحقیق در عملیات}, دانشگاه
+  فردوسی مشهد, ۱۳۹۴.
+
+
+\bibitem{Amintoosi94QR}
+امین‌طوسی, محمود و پورصدیق, سمیه.
+\newblock افزایش سرعت شناسایی زمینه ویديو با
+  محاسبه مرحله‌ای تجزیه {QR}.
+\newblock  در {\em هشتمین سمینار جبرخطی و کابردهای
+  آن}, دانشگاه کردستان, ۱۳۹۴.
+\newblock \lr{Increasing the speed of video background Subtraction by
+  incremental {QR} decomposition, (2015)}.
 
 
 \bibitem{Amintoosi94matting}

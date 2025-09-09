@@ -397,6 +397,21 @@
 
 \begin{RTLbibitems}
 
+\bibitem{Amintoosi94QR}
+\Persiantext{
+امین‌طوسی, محمود و پورصدیق, سمیه.
+\newblock افزایش سرعت شناسایی زمینه ویديو با
+  محاسبه مرحله‌ای تجزیه {QR}.
+\newblock  در {\em هشتمین سمینار جبرخطی و کابردهای
+  آن}, دانشگاه کردستان, ۱۳۹۴.
+\newblock \lr{Increasing the speed of video background Subtraction by
+  incremental {QR} decomposition, (2015)}.
+}
+
+\end{RTLbibitems}
+
+\begin{RTLbibitems}
+
 \bibitem{Amintoosi94matting}
 \Persiantext{
 امین‌طوسی, محمود و رشیدآبادی, فرزانه.
